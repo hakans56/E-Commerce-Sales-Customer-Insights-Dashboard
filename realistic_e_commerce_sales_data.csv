@@ -1,0 +1,1001 @@
+Gender,Region,Age,Product Name,Category, Unit Price ,Quantity, Total Price , Shipping Fee ,Shipping Status,Order Date,AgeGroup
+,,,,,,,,,,,
+Male,West,22,Headphones,Accessories, $100.00 ,2, $200.00 , $6.93 ,In Transit,09-04-23,18-24
+Female,South,54,Monitor,Electronics, $300.00 ,1, $300.00 , $11.31 ,Returned,28-08-23,45-54
+Male,North,23,Headphones,Accessories, $100.00 ,5, $500.00 , $12.22 ,Delivered,18-01-23,18-24
+,,,,,,,,,,,
+Male,North,64,Smartwatch,Wearables, $200.00 ,2, $400.00 , $11.26 ,In Transit,11-01-23,55+
+Male,East,27,Smartwatch,Wearables, $200.00 ,1, $200.00 , $18.38 ,In Transit,23-10-23,25-34
+Female,South,18,Keyboard,Accessories, $50.00 ,2, $100.00 , $15.08 ,Returned,15-06-23,18-24
+Female,East,22,Mouse,Accessories, $30.00 ,1, $30.00 , $8.22 ,Returned,25-02-23,18-24
+Male,West,29,Headphones,Accessories, $100.00 ,3, $300.00 , $10.70 ,Delivered,23-04-23,25-34
+Female,East,49,Headphones,Accessories, $100.00 ,2, $200.00 , $9.80 ,Returned,01-06-23,45-54
+Female,West,67,Mouse,Accessories, $30.00 ,3, $90.00 , $5.65 ,In Transit,13-09-23,55+
+Female,West,41,Keyboard,Accessories, $50.00 ,5, $250.00 , $7.13 ,Delivered,17-02-23,35-44
+Male,South,60,Keyboard,Accessories, $50.00 ,4, $200.00 , $10.91 ,Returned,10-12-23,55+
+Male,West,66,Mouse,Accessories, $30.00 ,1, $30.00 , $11.36 ,In Transit,29-06-23,55+
+,,,,,,,,,,,
+Male,North,57,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $10.92 ,In Transit,13-05-23,55+
+Male,South,30,Smartphone,Electronics, $800.00 ,2," $1,600.00 ", $11.44 ,Returned,09-06-23,25-34
+Female,East,32,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $7.16 ,In Transit,21-06-23,25-34
+Female,West,59,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $17.37 ,In Transit,26-11-23,55+
+Female,East,67,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $12.17 ,Delivered,08-11-23,55+
+Female,South,37,Mouse,Accessories, $30.00 ,3, $90.00 , $19.41 ,Returned,27-12-23,35-44
+,,,,,,,,,,,
+Female,East,52,Headphones,Accessories, $100.00 ,2, $200.00 , $12.00 ,In Transit,28-10-23,45-54
+Male,North,58,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $18.11 ,,30-12-23,55+
+Female,South,57,Keyboard,Accessories, $50.00 ,1, $50.00 , $9.60 ,Delivered,04-12-23,55+
+Male,East,59,Smartphone,Electronics, $800.00 ,2," $1,600.00 ", $11.59 ,In Transit,01-02-23,55+
+Female,North,25,Smartwatch,Wearables, $200.00 ,1, $200.00 , $14.90 ,Delivered,14-08-23,25-34
+Female,East,31,Smartphone,Electronics, $800.00 ,1, $800.00 , $19.22 ,In Transit,07-12-23,25-34
+Male,North,28,Keyboard,Accessories, $50.00 ,4, $200.00 , $15.31 ,Delivered,28-06-23,25-34
+Female,East,57,Monitor,Electronics, $300.00 ,2, $600.00 , $12.38 ,Returned,17-11-23,55+
+,,,,,,,,,,,
+Female,South,53,Monitor,Electronics, $300.00 ,2, $600.00 , $18.38 ,In Transit,05-09-23,45-54
+Female,South,58,Headphones,Accessories, $100.00 ,5, $500.00 , $7.41 ,Delivered,17-09-23,55+
+Female,South,35,Mouse,Accessories, $30.00 ,3, $90.00 , $11.42 ,Delivered,25-12-23,35-44
+Male,North,41,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $7.13 ,Delivered,14-01-23,35-44
+Female,West,64,Monitor,Electronics, $300.00 ,1, $300.00 , $6.55 ,Returned,01-08-23,55+
+,,,,,,,,,,,
+Female,South,43,Monitor,Electronics, $300.00 ,2, $600.00 , $18.27 ,In Transit,18-05-23,35-44
+,,,,,,,,,,,
+Male,East,58,Keyboard,Accessories, $50.00 ,2, $100.00 , $9.57 ,Returned,30-08-23,55+
+Male,West,61,Monitor,Electronics, $300.00 ,1, $300.00 , $13.82 ,Returned,15-09-23,55+
+Male,East,19,Keyboard,Accessories, $50.00 ,4, $200.00 , $5.32 ,Delivered,14-02-23,18-24
+Male,North,31,Keyboard,Accessories, $50.00 ,3, $150.00 , $7.46 ,Delivered,27-02-23,25-34
+Male,North,38,Monitor,Electronics, $300.00 ,1, $300.00 , $17.22 ,Returned,13-08-23,35-44
+Male,East,44,Headphones,Accessories, $100.00 ,2, $200.00 , $8.15 ,In Transit,09-05-23,35-44
+Male,East,68,Monitor,Electronics, $300.00 ,2, $600.00 , $9.56 ,,23-12-23,55+
+Male,West,44,Smartwatch,Wearables, $200.00 ,3, $600.00 , $18.09 ,In Transit,28-10-23,35-44
+Female,West,67,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $7.01 ,Delivered,01-09-23,55+
+Male,West,23,Monitor,Electronics, $300.00 ,3, $900.00 , $12.58 ,Returned,16-04-23,18-24
+Male,West,68,Headphones,Accessories, $100.00 ,2, $200.00 , $13.49 ,In Transit,13-12-23,55+
+Female,East,42,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $18.15 ,In Transit,27-03-23,35-44
+Male,South,51,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $7.43 ,Delivered,16-11-23,45-54
+Female,West,61,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $5.42 ,Returned,14-06-23,55+
+Female,South,46,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $10.62 ,Returned,26-01-23,45-54
+Female,West,49,Keyboard,Accessories, $50.00 ,4, $200.00 , $19.72 ,,25-12-23,45-54
+Male,North,62,Keyboard,Accessories, $50.00 ,4, $200.00 , $12.79 ,Delivered,29-09-23,55+
+Male,South,54,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $5.16 ,Delivered,14-03-23,45-54
+Female,North,67,Headphones,Accessories, $100.00 ,2, $200.00 , $11.65 ,Returned,14-12-23,55+
+Male,South,52,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $19.69 ,In Transit,17-09-23,45-54
+Male,East,64,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $17.27 ,In Transit,08-08-23,55+
+Male,North,33,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $14.88 ,Delivered,12-04-23,25-34
+Female,West,24,Headphones,Accessories, $100.00 ,3, $300.00 , $8.49 ,In Transit,21-02-23,18-24
+Male,East,36,Headphones,Accessories, $100.00 ,2, $200.00 , $7.71 ,Returned,03-11-23,35-44
+Male,North,19,Monitor,Electronics, $300.00 ,5," $1,500.00 ", $13.70 ,In Transit,16-01-23,18-24
+Male,East,28,Monitor,Electronics, $300.00 ,1, $300.00 , $17.98 ,Returned,03-01-24,25-34
+,,,,,,,,,,,
+,,,,,,,,,,,
+Male,South,41,Keyboard,Accessories, $50.00 ,4, $200.00 , $19.12 ,Returned,03-04-23,35-44
+Male,East,21,Mouse,Accessories, $30.00 ,1, $30.00 , $6.17 ,In Transit,23-10-23,18-24
+Female,North,50,Keyboard,Accessories, $50.00 ,2, $100.00 , $13.82 ,In Transit,25-07-23,45-54
+Male,West,48,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $15.95 ,Returned,01-10-23,45-54
+Male,South,50,Keyboard,Accessories, $50.00 ,5, $250.00 , $10.89 ,Delivered,19-03-23,45-54
+Female,West,54,Keyboard,Accessories, $50.00 ,4, $200.00 , $9.22 ,Returned,05-10-23,45-54
+Female,North,64,Keyboard,Accessories, $50.00 ,3, $150.00 , $17.76 ,In Transit,11-04-23,55+
+Male,North,63,Mouse,Accessories, $30.00 ,1, $30.00 , $13.28 ,Returned,11-09-23,55+
+Female,North,47,Smartphone,Electronics, $800.00 ,1, $800.00 , $11.29 ,Returned,28-10-23,45-54
+Male,North,45,Keyboard,Accessories, $50.00 ,2, $100.00 , $19.04 ,Delivered,16-03-23,45-54
+Female,North,33,Smartwatch,Wearables, $200.00 ,2, $400.00 , $10.07 ,Delivered,21-11-23,25-34
+Female,East,64,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $6.53 ,Returned,03-12-23,55+
+Male,East,59,Smartwatch,Wearables, $200.00 ,3, $600.00 , $9.82 ,In Transit,08-02-23,55+
+Female,South,40,Mouse,Accessories, $30.00 ,5, $150.00 , $8.64 ,Delivered,22-12-23,35-44
+,,,,,,,,,,,
+,,,,,,,,,,,
+Male,West,51,Keyboard,Accessories, $103.65 ,4, $200.00 , $11.41 ,Returned,20-05-23,45-54
+Female,West,52,Monitor,Electronics, $300.00 ,3, $900.00 , $5.66 ,Delivered,18-02-23,45-54
+Female,West,46,Mouse,Accessories, $30.00 ,4, $120.00 , $5.71 ,Delivered,03-01-24,45-54
+Male,North,52,Smartwatch,Wearables, $200.00 ,1, $200.00 , $13.68 ,Delivered,02-08-23,45-54
+Female,South,30,Mouse,Accessories, $30.00 ,1, $30.00 , $18.29 ,In Transit,19-04-23,25-34
+Male,North,61,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $6.31 ,Delivered,29-06-23,55+
+Female,North,63,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $13.15 ,Delivered,08-03-23,55+
+Male,West,55,Headphones,Accessories, $100.00 ,2, $200.00 , $16.23 ,Returned,04-07-23,55+
+Female,East,69,Keyboard,Accessories, $50.00 ,1, $50.00 , $14.53 ,Returned,23-04-23,55+
+Male,East,18,Keyboard,Accessories, $50.00 ,2, $100.00 , $11.25 ,Returned,24-03-23,18-24
+Male,West,18,Keyboard,Accessories, $50.00 ,5, $250.00 , $11.11 ,Returned,11-09-23,18-24
+Male,North,42,Mouse,Accessories, $30.00 ,2, $60.00 , $18.98 ,In Transit,02-02-23,35-44
+Male,North,18,Headphones,Accessories, $100.00 ,1, $100.00 , $18.47 ,Delivered,13-08-23,18-24
+Male,West,61,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $18.50 ,Returned,23-05-23,55+
+Female,South,26,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $15.74 ,Returned,12-08-23,25-34
+Male,North,25,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $18.20 ,In Transit,24-01-23,25-34
+Female,East,57,Smartwatch,Wearables, $200.00 ,2, $400.00 , $17.94 ,In Transit,08-12-23,55+
+Male,South,38,Smartphone,Electronics, $800.00 ,2," $1,600.00 ", $16.51 ,In Transit,14-09-23,35-44
+Female,North,58,Smartwatch,Wearables, $200.00 ,4, $800.00 , $9.97 ,Delivered,12-11-23,55+
+Female,East,40,Monitor,Electronics, $300.00 ,1, $300.00 , $6.85 ,Returned,21-06-23,35-44
+Female,East,62,Keyboard,Accessories, $50.00 ,5, $250.00 , $14.04 ,,03-01-24,55+
+,,,,,,,,,,,
+Female,North,63,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $18.66 ,Returned,06-05-23,55+
+Male,South,33,Mouse,Accessories, $30.00 ,1, $30.00 , $7.78 ,In Transit,03-01-23,25-34
+Female,North,22,Headphones,Accessories, $100.00 ,3, $300.00 , $6.16 ,Returned,12-10-23,18-24
+Female,East,33,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $6.92 ,Returned,26-06-23,25-34
+,,,,,,,,,,,
+,,,,,,,,,,,
+Male,West,54,Smartphone,Electronics, $800.00 ,3," $2,400.00 ", $18.76 ,In Transit,07-12-23,45-54
+Male,West,37,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $6.68 ,Delivered,06-07-23,35-44
+Female,South,22,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $11.69 ,Delivered,20-06-23,18-24
+,,,,,,,,,,,
+,,,,,,,,,,,
+Male,West,58,Headphones,Accessories, $100.00 ,3, $300.00 , $6.08 ,Returned,22-03-23,55+
+Male,East,23,Smartphone,Electronics, $800.00 ,1, $800.00 , $12.64 ,Returned,10-09-23,18-24
+Female,South,38,Mouse,Accessories, $30.00 ,1, $30.00 , $10.92 ,Delivered,22-02-23,35-44
+Male,North,19,Smartphone,Electronics, $800.00 ,3," $2,400.00 ", $16.82 ,In Transit,20-05-23,18-24
+,,,,,,,,,,,
+,,,,,,,,,,,
+Male,North,61,Monitor,Electronics, $300.00 ,2, $600.00 , $13.84 ,In Transit,10-10-23,55+
+Female,North,18,Keyboard,Accessories, $50.00 ,3, $150.00 , $13.86 ,Delivered,29-05-23,18-24
+Male,North,29,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $14.23 ,Returned,01-06-23,25-34
+,,,,,,,,,,,
+Female,North,38,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $19.98 ,In Transit,10-05-23,35-44
+Male,North,63,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $11.10 ,In Transit,06-11-23,55+
+Female,North,59,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $12.63 ,Returned,06-02-23,55+
+,,,,,,,,,,,
+Male,North,47,Smartphone,Electronics, $800.00 ,1, $800.00 , $10.16 ,,13-01-23,45-54
+,,,,,,,,,,,
+Female,North,33,Keyboard,Accessories, $50.00 ,1, $50.00 , $6.06 ,Delivered,02-08-23,25-34
+Female,North,41,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $9.21 ,Returned,02-02-23,35-44
+Male,North,46,Keyboard,Accessories, $50.00 ,3, $150.00 , $5.09 ,Returned,16-03-23,45-54
+Female,North,49,Mouse,Accessories, $30.00 ,2, $60.00 , $8.39 ,In Transit,03-11-23,45-54
+Female,West,54,Mouse,Accessories, $30.00 ,2, $60.00 , $8.59 ,Delivered,04-06-23,45-54
+Male,West,30,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $9.98 ,Delivered,04-12-23,25-34
+Male,East,30,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $7.58 ,Delivered,26-09-23,25-34
+Male,West,37,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $5.69 ,Returned,18-01-23,35-44
+Female,East,27,Monitor,Electronics, $300.00 ,1, $300.00 , $16.61 ,In Transit,23-11-23,25-34
+Female,West,38,Smartwatch,Wearables, $200.00 ,4, $800.00 , $18.89 ,Returned,03-05-23,35-44
+Male,West,44,Keyboard,Accessories, $50.00 ,4, $200.00 , $19.81 ,In Transit,27-08-23,35-44
+Male,West,58,Headphones,Accessories, $100.00 ,5, $500.00 , $14.50 ,Returned,16-01-23,55+
+Female,East,25,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $16.41 ,In Transit,25-07-23,25-34
+Male,North,35,Smartwatch,Wearables, $200.00 ,1, $200.00 , $7.32 ,Delivered,18-11-23,35-44
+,,,,,,,,,,,
+Male,West,63,Mouse,Accessories, $30.00 ,3, $90.00 , $13.95 ,Returned,15-05-23,55+
+Female,South,39,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $9.55 ,In Transit,16-05-23,35-44
+Male,South,29,Smartwatch,Wearables, $200.00 ,3, $600.00 , $13.87 ,In Transit,18-03-23,25-34
+,,,,,,,,,,,
+Female,North,27,Mouse,Accessories, $30.00 ,3, $90.00 , $6.45 ,In Transit,19-09-23,25-34
+Female,West,42,Smartphone,Electronics, $800.00 ,2," $1,600.00 ", $13.79 ,In Transit,25-09-23,35-44
+Male,East,51,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $16.42 ,In Transit,28-10-23,45-54
+Female,South,27,Monitor,Electronics, $300.00 ,3, $900.00 , $7.99 ,In Transit,21-02-23,25-34
+Female,West,44,Keyboard,Accessories, $50.00 ,2, $100.00 , $6.45 ,Returned,28-08-23,35-44
+Male,East,30,Mouse,Accessories, $30.00 ,5, $150.00 , $16.62 ,Returned,28-10-23,25-34
+,,,,,,,,,,,
+Female,East,68,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $16.34 ,Delivered,07-05-23,55+
+Female,East,58,Mouse,Accessories, $30.00 ,1, $30.00 , $12.22 ,In Transit,03-10-23,55+
+Male,South,56,Mouse,Accessories, $30.00 ,3, $90.00 , $5.07 ,Delivered,05-01-23,55+
+Male,West,59,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $7.50 ,Delivered,22-08-23,55+
+Female,East,21,Smartphone,Electronics, $800.00 ,3," $2,400.00 ", $15.78 ,Delivered,07-11-23,18-24
+Female,West,42,Keyboard,Accessories, $50.00 ,1, $50.00 , $15.92 ,Delivered,24-06-23,35-44
+,,,,,,,,,,,
+Male,South,25,Mouse,Accessories, $30.00 ,4, $120.00 , $18.60 ,Returned,29-06-23,25-34
+Female,South,41,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $16.45 ,In Transit,18-01-23,35-44
+Male,North,41,Headphones,Accessories, $100.00 ,5, $500.00 , $19.62 ,Delivered,04-03-23,35-44
+Female,East,47,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $8.87 ,Delivered,11-09-23,45-54
+Male,North,66,Monitor,Electronics, $300.00 ,1, $300.00 , $16.58 ,Delivered,27-02-23,55+
+Female,South,42,Monitor,Electronics, $300.00 ,1, $300.00 , $14.70 ,Delivered,16-11-23,35-44
+Male,South,53,Smartphone,Electronics, $800.00 ,2," $1,600.00 ", $16.23 ,In Transit,19-07-23,45-54
+Male,West,43,Headphones,Accessories, $100.00 ,4, $400.00 , $11.40 ,Returned,24-04-23,35-44
+Male,West,46,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $19.08 ,In Transit,01-05-23,45-54
+,,,,,,,,,,,
+Female,South,23,Smartwatch,Wearables, $200.00 ,2, $400.00 , $5.73 ,Returned,03-01-24,18-24
+Male,South,44,Smartphone,Electronics, $800.00 ,1, $800.00 , $7.11 ,In Transit,19-01-23,35-44
+Female,East,67,Monitor,Electronics, $300.00 ,1, $300.00 , $15.92 ,,03-05-23,55+
+Female,West,60,Monitor,Electronics, $300.00 ,3, $900.00 , $18.61 ,In Transit,21-07-23,55+
+,,,,,,,,,,,
+Female,West,54,Mouse,Accessories, $30.00 ,3, $90.00 , $14.78 ,Returned,15-06-23,45-54
+Female,South,56,Monitor,Electronics, $300.00 ,2, $600.00 , $13.60 ,Delivered,16-08-23,55+
+Male,East,32,Monitor,Electronics, $300.00 ,1, $300.00 , $15.50 ,Delivered,14-04-23,25-34
+Male,East,26,Headphones,Accessories, $100.00 ,5, $500.00 , $16.96 ,Delivered,24-10-23,25-34
+Male,East,27,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $12.00 ,In Transit,14-07-23,25-34
+Female,West,65,Keyboard,Accessories, $50.00 ,3, $150.00 , $19.62 ,In Transit,06-12-23,55+
+Male,North,62,Smartwatch,Wearables, $200.00 ,2, $400.00 , $11.66 ,Delivered,31-08-23,55+
+Male,South,21,Headphones,Accessories, $100.00 ,1, $100.00 , $11.24 ,Delivered,02-09-23,18-24
+Male,North,53,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $6.27 ,Returned,06-04-23,45-54
+Female,South,57,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $16.09 ,In Transit,29-12-23,55+
+Male,North,66,Mouse,Accessories, $30.00 ,4, $120.00 , $8.24 ,Returned,09-06-23,55+
+,,,,,,,,,,,
+Female,West,64,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $18.88 ,Returned,14-07-23,55+
+Male,North,64,Monitor,Electronics, $621.91 ,5," $1,500.00 ", $6.93 ,Delivered,23-04-23,55+
+Female,West,42,Smartphone,Electronics, $800.00 ,3," $2,400.00 ", $7.22 ,Delivered,21-10-23,35-44
+Male,South,43,Keyboard,Accessories, $50.00 ,2, $100.00 , $5.05 ,Delivered,09-10-23,35-44
+Female,East,51,Headphones,Accessories, $100.00 ,1, $100.00 , $19.84 ,Delivered,27-05-23,45-54
+Female,West,57,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $16.28 ,Returned,01-02-23,55+
+Female,West,55,Mouse,Accessories, $30.00 ,5, $150.00 , $17.36 ,In Transit,07-05-23,55+
+,,,,,,,,,,,
+Female,East,50,Headphones,Accessories, $100.00 ,5, $500.00 , $16.11 ,In Transit,07-11-23,45-54
+Male,West,28,Keyboard,Accessories, $50.00 ,2, $100.00 , $9.48 ,Returned,14-09-23,25-34
+Female,South,36,Monitor,Electronics, $300.00 ,2, $600.00 , $18.44 ,Returned,19-03-23,35-44
+Female,South,33,Keyboard,Accessories, $50.00 ,5, $250.00 , $8.43 ,In Transit,05-10-23,25-34
+,,,,,,,,,,,
+Male,North,54,Smartphone,Electronics, $800.00 ,2," $1,600.00 ", $6.45 ,Delivered,16-03-23,45-54
+Male,West,49,Keyboard,Accessories, $50.00 ,1, $50.00 , $8.97 ,Returned,23-05-23,45-54
+Male,North,64,Headphones,Accessories, $100.00 ,3, $300.00 , $11.64 ,Returned,24-11-23,55+
+,,,,,,,,,,,
+,,,,,,,,,,,
+Female,West,19,Smartphone,Electronics, $800.00 ,3," $2,400.00 ", $11.21 ,Returned,01-08-23,18-24
+Male,West,29,Keyboard,Accessories, $50.00 ,2, $100.00 , $5.18 ,Returned,14-04-23,25-34
+Male,North,68,Smartwatch,Wearables, $200.00 ,3, $600.00 , $7.93 ,In Transit,22-06-23,55+
+Male,North,30,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $14.53 ,In Transit,18-04-23,25-34
+Female,West,61,Mouse,Accessories, $62.19 ,1, $30.00 , $10.41 ,Returned,28-01-23,55+
+,,,,,,,,,,,
+,,,,,,,,,,,
+Male,North,29,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $6.06 ,Delivered,24-02-23,25-34
+Male,West,57,Keyboard,Accessories, $50.00 ,3, $150.00 , $11.12 ,In Transit,16-02-23,55+
+Male,West,38,Smartwatch,Wearables, $200.00 ,3, $600.00 , $19.89 ,Returned,07-08-23,35-44
+Male,North,58,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $18.55 ,,04-04-23,55+
+Female,East,38,Monitor,Electronics, $300.00 ,1, $300.00 , $11.89 ,In Transit,01-05-23,35-44
+Female,East,32,Smartphone,Electronics, $800.00 ,3," $2,400.00 ", $14.12 ,In Transit,28-09-23,25-34
+,,,,,,,,,,,
+Male,South,63,Headphones,Accessories, $100.00 ,4, $400.00 , $11.39 ,Delivered,06-05-23,55+
+Female,West,59,Keyboard,Accessories, $103.65 ,4, $200.00 , $10.49 ,Delivered,21-08-23,55+
+Male,West,27,Headphones,Accessories, $100.00 ,3, $300.00 , $17.92 ,Returned,13-03-23,25-34
+Female,West,51,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $12.36 ,Returned,28-02-23,45-54
+Male,West,29,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $8.15 ,Delivered,26-07-23,25-34
+Male,East,66,Monitor,Electronics, $300.00 ,2, $600.00 , $19.10 ,,02-07-23,55+
+Male,East,54,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $10.03 ,Returned,17-10-23,45-54
+Male,East,68,Monitor,Electronics, $300.00 ,3, $900.00 , $5.00 ,In Transit,18-10-23,55+
+,,,,,,,,,,,
+Female,South,29,Monitor,Electronics, $300.00 ,3, $900.00 , $18.32 ,Delivered,20-07-23,25-34
+Female,West,40,Smartwatch,Wearables, $200.00 ,1, $200.00 , $8.82 ,Returned,08-04-23,35-44
+Male,West,48,Keyboard,Accessories, $50.00 ,3, $150.00 , $16.84 ,Returned,08-01-23,45-54
+Female,West,52,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $9.45 ,,13-05-23,45-54
+Male,East,69,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $8.25 ,Returned,15-08-23,55+
+Male,North,67,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $14.61 ,In Transit,18-09-23,55+
+Female,North,59,Mouse,Accessories, $30.00 ,1, $30.00 , $6.08 ,Returned,15-02-23,55+
+Female,West,64,Smartwatch,Wearables, $200.00 ,2, $400.00 , $15.94 ,Delivered,28-11-23,55+
+,,,,,,,,,,,
+Female,South,62,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $6.66 ,In Transit,10-07-23,55+
+Female,North,52,Monitor,Electronics, $621.91 ,3, $900.00 , $11.04 ,Delivered,25-10-23,45-54
+Male,West,41,Headphones,Accessories, $100.00 ,3, $300.00 , $11.98 ,Delivered,12-06-23,35-44
+Male,South,53,Headphones,Accessories, $100.00 ,5, $500.00 , $5.93 ,In Transit,22-07-23,45-54
+Male,West,53,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $19.43 ,Returned,25-06-23,45-54
+Male,East,68,Smartphone,Electronics, $800.00 ,3," $2,400.00 ", $8.23 ,Returned,29-11-23,55+
+Male,West,51,Smartphone,Electronics, $800.00 ,1, $800.00 , $18.58 ,Returned,03-10-23,45-54
+Female,South,66,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $13.16 ,In Transit,06-02-23,55+
+Male,South,53,Monitor,Electronics, $300.00 ,2, $600.00 , $8.51 ,Returned,17-05-23,45-54
+Female,North,45,Smartwatch,Wearables, $200.00 ,2, $400.00 , $10.82 ,Returned,23-09-23,45-54
+Female,South,49,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $17.62 ,Returned,25-12-23,45-54
+Female,West,69,Mouse,Accessories, $30.00 ,5, $150.00 , $9.07 ,Delivered,19-02-23,55+
+Male,East,45,Keyboard,Accessories, $50.00 ,1, $50.00 , $11.27 ,Returned,13-09-23,45-54
+Male,South,26,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $6.90 ,Returned,05-11-23,25-34
+Male,South,55,Monitor,Electronics, $300.00 ,3, $900.00 , $7.31 ,In Transit,15-01-23,55+
+,,,,,,,,,,,
+Male,East,54,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $12.68 ,Delivered,11-05-23,45-54
+Female,South,61,Mouse,Accessories, $30.00 ,1, $30.00 , $19.54 ,In Transit,16-04-23,55+
+Male,East,46,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $17.82 ,,17-03-23,45-54
+Female,North,46,Mouse,Accessories, $30.00 ,4, $120.00 , $10.01 ,In Transit,11-04-23,45-54
+Female,North,30,Keyboard,Accessories, $50.00 ,4, $200.00 , $16.61 ,Returned,16-10-23,25-34
+Male,South,55,Headphones,Accessories, $100.00 ,4, $400.00 , $18.99 ,In Transit,16-10-23,55+
+Female,East,37,Headphones,Accessories, $100.00 ,4, $400.00 , $11.40 ,Delivered,22-02-23,35-44
+Female,East,62,Mouse,Accessories, $30.00 ,2, $60.00 , $8.36 ,Delivered,17-07-23,55+
+,,,,,,,,,,,
+Male,North,47,Headphones,Accessories, $100.00 ,3, $300.00 , $15.00 ,Delivered,09-07-23,45-54
+Male,West,27,Mouse,Accessories, $30.00 ,4, $120.00 , $16.05 ,Returned,07-05-23,25-34
+Female,East,44,Keyboard,Accessories, $50.00 ,4, $200.00 , $12.30 ,In Transit,22-03-23,35-44
+Male,North,36,Smartwatch,Wearables, $200.00 ,2, $400.00 , $12.03 ,Returned,28-08-23,35-44
+,,,,,,,,,,,
+Female,North,36,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $11.21 ,,16-10-23,35-44
+Male,South,61,Smartphone,Electronics, $800.00 ,1, $800.00 , $17.43 ,Delivered,10-01-23,55+
+Male,South,69,Smartphone,Electronics, $800.00 ,3," $2,400.00 ", $13.57 ,Returned,25-03-23,55+
+Female,East,52,Smartwatch,Wearables, $200.00 ,3, $600.00 , $10.21 ,In Transit,29-01-23,45-54
+Female,South,60,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $18.75 ,Delivered,19-01-23,55+
+Male,West,45,Monitor,Electronics, $300.00 ,1, $300.00 , $16.70 ,Delivered,16-09-23,45-54
+Male,West,52,Monitor,Electronics, $300.00 ,1, $300.00 , $14.67 ,Delivered,21-07-23,45-54
+Female,South,63,Monitor,Electronics, $300.00 ,5," $1,500.00 ", $18.00 ,Returned,21-03-23,55+
+Female,South,67,Keyboard,Accessories, $50.00 ,5, $250.00 , $10.04 ,In Transit,03-05-23,55+
+Male,West,26,Keyboard,Accessories, $50.00 ,4, $200.00 , $10.23 ,Delivered,24-01-23,25-34
+Male,West,41,Smartwatch,Wearables, $200.00 ,4, $800.00 , $8.56 ,Returned,03-01-24,35-44
+,,,,,,,,,,,
+Male,South,58,Monitor,Electronics, $300.00 ,5," $1,500.00 ", $19.72 ,Delivered,16-05-23,55+
+Male,South,66,Mouse,Accessories, $30.00 ,2, $60.00 , $9.19 ,In Transit,07-05-23,55+
+Female,West,67,Headphones,Accessories, $100.00 ,2, $200.00 , $19.58 ,Returned,01-06-23,55+
+Male,North,35,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $15.61 ,In Transit,27-01-23,35-44
+Male,South,52,Keyboard,Accessories, $50.00 ,2, $100.00 , $13.78 ,Delivered,04-09-23,45-54
+Female,East,32,Mouse,Accessories, $30.00 ,5, $150.00 , $15.68 ,Delivered,06-11-23,25-34
+,,,,,,,,,,,
+Male,North,57,Smartwatch,Wearables, $200.00 ,1, $200.00 , $13.34 ,Returned,08-09-23,55+
+Female,South,54,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $5.02 ,Returned,28-08-23,45-54
+Male,West,49,Smartwatch,Wearables, $200.00 ,4, $800.00 , $18.56 ,Delivered,18-03-23,45-54
+Female,South,40,Headphones,Accessories, $100.00 ,5, $500.00 , $14.22 ,Delivered,02-02-23,35-44
+Male,North,67,Headphones,Accessories, $100.00 ,5, $500.00 , $13.85 ,Returned,15-03-23,55+
+Female,North,41,Mouse,Accessories, $30.00 ,3, $90.00 , $18.37 ,Returned,03-01-24,35-44
+Male,West,63,Smartphone,Electronics, $800.00 ,2," $1,600.00 ", $19.63 ,Delivered,27-12-23,55+
+Male,North,25,Smartphone,Electronics, $800.00 ,1, $800.00 , $5.64 ,In Transit,23-09-23,25-34
+Male,North,50,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $15.14 ,In Transit,08-06-23,45-54
+Male,West,68,Mouse,Accessories, $30.00 ,4, $120.00 , $14.02 ,Returned,13-09-23,55+
+Male,West,62,Smartwatch,Wearables, $200.00 ,3, $600.00 , $17.90 ,Returned,03-01-23,55+
+Male,South,54,Smartphone,Electronics, $800.00 ,1, $800.00 , $7.77 ,Returned,23-07-23,45-54
+Male,West,43,Smartwatch,Wearables, $200.00 ,2, $400.00 , $13.02 ,Delivered,08-10-23,35-44
+Male,South,60,Keyboard,Accessories, $50.00 ,1, $50.00 , $6.25 ,In Transit,06-02-23,55+
+Male,West,25,Monitor,Electronics, $300.00 ,3, $900.00 , $9.94 ,Delivered,21-10-23,25-34
+Male,East,50,Smartphone,Electronics, $800.00 ,1, $800.00 , $10.36 ,Returned,25-05-23,45-54
+Female,South,32,Smartphone,Electronics, $800.00 ,1, $800.00 , $8.45 ,Returned,28-04-23,25-34
+Male,East,61,Smartphone,Electronics, $800.00 ,2," $1,600.00 ", $19.07 ,Delivered,03-10-23,55+
+,,,,,,,,,,,
+Female,West,18,Mouse,Accessories, $30.00 ,4, $120.00 , $8.76 ,In Transit,30-06-23,18-24
+Male,North,21,Monitor,Electronics, $300.00 ,2, $600.00 , $5.69 ,Returned,03-08-23,18-24
+Male,East,69,Headphones,Accessories, $100.00 ,1, $100.00 , $6.43 ,Returned,26-05-23,55+
+Female,West,66,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $19.19 ,Returned,19-09-23,55+
+Female,West,41,Smartwatch,Wearables, $200.00 ,3, $600.00 , $10.92 ,Returned,18-06-23,35-44
+Male,East,67,Keyboard,Accessories, $50.00 ,5, $250.00 , $11.17 ,In Transit,03-03-23,55+
+Female,East,42,Smartphone,Electronics, $800.00 ,3," $2,400.00 ", $10.65 ,In Transit,18-11-23,35-44
+Female,West,50,Monitor,Electronics, $300.00 ,1, $300.00 , $14.36 ,Delivered,05-08-23,45-54
+Female,East,68,Headphones,Accessories, $100.00 ,4, $400.00 , $11.92 ,In Transit,31-10-23,55+
+Female,East,50,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $13.43 ,Returned,11-08-23,45-54
+,,,,,,,,,,,
+Male,West,44,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $7.21 ,Delivered,21-11-23,35-44
+Female,East,37,Headphones,Accessories, $100.00 ,3, $300.00 , $7.41 ,Delivered,27-03-23,35-44
+Female,West,55,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $19.04 ,In Transit,20-10-23,55+
+Female,North,44,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $9.87 ,Delivered,27-11-23,35-44
+Female,East,67,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $9.60 ,In Transit,22-10-23,55+
+,,,,,,,,,,,
+Female,North,60,Smartphone,Electronics, $800.00 ,2," $1,600.00 ", $19.20 ,In Transit,11-08-23,55+
+Male,South,20,Keyboard,Accessories, $50.00 ,1, $50.00 , $17.61 ,Returned,13-08-23,18-24
+Female,East,34,Smartwatch,Wearables, $200.00 ,1, $200.00 , $17.66 ,Returned,21-05-23,25-34
+Female,North,19,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $14.45 ,Delivered,08-11-23,18-24
+,,,,,,,,,,,
+Female,South,64,Monitor,Electronics, $300.00 ,3, $900.00 , $19.12 ,In Transit,17-06-23,55+
+Male,West,37,Monitor,Electronics, $300.00 ,1, $300.00 , $9.72 ,Returned,30-03-23,35-44
+Female,West,66,Monitor,Electronics, $300.00 ,1, $300.00 , $18.63 ,Delivered,01-11-23,55+
+Male,South,69,Smartphone,Electronics, $800.00 ,3," $2,400.00 ", $5.26 ,,07-10-23,55+
+Female,South,33,Mouse,Accessories, $30.00 ,2, $60.00 , $15.69 ,Delivered,21-10-23,25-34
+Female,West,43,Monitor,Electronics, $300.00 ,3, $900.00 , $8.58 ,Returned,02-11-23,35-44
+Female,South,48,Headphones,Accessories, $207.30 ,1, $100.00 , $9.55 ,Delivered,23-01-23,45-54
+,,,,,,,,,,,
+Female,South,54,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $7.86 ,Returned,07-08-23,45-54
+Male,South,38,Monitor,Electronics, $300.00 ,5," $1,500.00 ", $12.67 ,In Transit,05-01-23,35-44
+Female,South,30,Monitor,Electronics, $300.00 ,2, $600.00 , $16.31 ,Delivered,25-07-23,25-34
+Female,South,45,Smartwatch,Wearables, $200.00 ,3, $600.00 , $18.24 ,Returned,25-11-23,45-54
+Male,North,52,Mouse,Accessories, $30.00 ,3, $90.00 , $11.88 ,Returned,18-05-23,45-54
+Female,South,66,Mouse,Accessories, $30.00 ,2, $60.00 , $5.53 ,In Transit,16-10-23,55+
+Male,South,67,Smartwatch,Wearables, $200.00 ,3, $600.00 , $8.01 ,Delivered,27-03-23,55+
+Female,South,22,Mouse,Accessories, $30.00 ,4, $120.00 , $19.24 ,In Transit,25-10-23,18-24
+Male,West,49,Monitor,Electronics, $300.00 ,2, $600.00 , $7.00 ,In Transit,21-09-23,45-54
+Male,South,65,Smartwatch,Wearables, $200.00 ,3, $600.00 , $6.94 ,In Transit,03-01-24,55+
+,,,,,,,,,,,
+Female,North,63,Monitor,Electronics, $300.00 ,3, $900.00 , $19.87 ,Delivered,23-08-23,55+
+Male,South,44,Keyboard,Accessories, $50.00 ,2, $100.00 , $10.09 ,Delivered,01-08-23,35-44
+Female,East,42,Monitor,Electronics, $300.00 ,2, $600.00 , $6.22 ,In Transit,06-08-23,35-44
+,,,,,,,,,,,
+Male,East,64,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $5.82 ,Returned,02-10-23,55+
+Male,East,54,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $18.40 ,Delivered,29-04-23,45-54
+Female,North,60,Smartwatch,Wearables, $200.00 ,2, $400.00 , $18.88 ,Delivered,24-07-23,55+
+Female,North,52,Smartwatch,Wearables, $200.00 ,3, $600.00 , $15.36 ,In Transit,17-09-23,45-54
+,,,,,,,,,,,
+Male,South,56,Headphones,Accessories, $100.00 ,4, $400.00 , $19.94 ,In Transit,07-06-23,55+
+Female,North,64,Headphones,Accessories, $100.00 ,1, $100.00 , $10.32 ,Delivered,12-03-23,55+
+Female,East,25,Keyboard,Accessories, $50.00 ,4, $200.00 , $7.33 ,Delivered,24-10-23,25-34
+Male,South,41,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $6.41 ,In Transit,01-12-23,35-44
+Male,West,69,Smartwatch,Wearables, $200.00 ,1, $200.00 , $12.86 ,In Transit,16-08-23,55+
+Female,North,64,Keyboard,Accessories, $50.00 ,1, $50.00 , $13.13 ,In Transit,13-02-23,55+
+,,,,,,,,,,,
+Male,North,18,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $7.81 ,Returned,22-06-23,18-24
+Female,South,56,Mouse,Accessories, $30.00 ,5, $150.00 , $5.44 ,In Transit,23-06-23,55+
+Female,East,66,Smartphone,Electronics, $800.00 ,3," $2,400.00 ", $19.63 ,Delivered,28-07-23,55+
+,,,,,,,,,,,
+Female,South,51,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $5.72 ,In Transit,10-11-23,45-54
+Female,West,58,Smartwatch,Wearables, $200.00 ,3, $600.00 , $9.69 ,Returned,03-01-24,55+
+Female,South,44,Smartphone,Electronics," $1,658.43 ",3," $2,400.00 ", $19.31 ,Delivered,03-06-23,35-44
+Female,East,46,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $16.31 ,In Transit,29-06-23,45-54
+Male,East,69,Mouse,Accessories, $30.00 ,1, $30.00 , $10.99 ,In Transit,06-10-23,55+
+Female,West,62,Smartphone,Electronics, $800.00 ,3," $2,400.00 ", $16.12 ,In Transit,01-08-23,55+
+Female,South,57,Smartwatch,Wearables, $200.00 ,2, $400.00 , $8.71 ,,18-05-23,55+
+Male,East,27,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $12.26 ,Returned,02-05-23,25-34
+Female,East,57,Smartphone,Electronics, $800.00 ,1, $800.00 , $19.34 ,Delivered,20-11-23,55+
+Female,West,67,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $18.81 ,In Transit,10-08-23,55+
+Male,North,69,Monitor,Electronics, $300.00 ,1, $300.00 , $14.91 ,Delivered,05-04-23,55+
+Female,North,49,Mouse,Accessories, $30.00 ,1, $30.00 , $5.60 ,Delivered,19-04-23,45-54
+Male,West,63,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $19.69 ,In Transit,30-12-23,55+
+,,,,,,,,,,,
+Female,North,58,Headphones,Accessories, $100.00 ,1, $100.00 , $5.25 ,Delivered,14-01-23,55+
+Male,North,41,Headphones,Accessories, $100.00 ,1, $100.00 , $18.38 ,Returned,05-07-23,35-44
+Female,East,21,Monitor,Electronics, $300.00 ,3, $900.00 , $15.22 ,In Transit,03-01-24,18-24
+Male,North,20,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $15.57 ,Delivered,06-11-23,18-24
+Male,East,44,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $8.03 ,In Transit,20-01-23,35-44
+Female,North,30,Monitor,Electronics, $300.00 ,5," $1,500.00 ", $16.68 ,Returned,06-05-23,25-34
+Female,North,27,Headphones,Accessories, $100.00 ,2, $200.00 , $12.44 ,In Transit,21-10-23,25-34
+,,,,,,,,,,,
+Female,East,27,Keyboard,Accessories, $50.00 ,1, $50.00 , $11.72 ,In Transit,10-07-23,25-34
+Female,West,49,Smartphone,Electronics, $800.00 ,2," $1,600.00 ", $6.85 ,Delivered,03-01-24,45-54
+Male,South,66,Mouse,Accessories, $30.00 ,4, $120.00 , $14.27 ,In Transit,05-02-23,55+
+Female,North,39,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $15.91 ,Returned,03-02-23,35-44
+Male,South,52,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $16.01 ,In Transit,22-11-23,45-54
+,,,,,,,,,,,
+Female,West,59,Mouse,Accessories, $30.00 ,3, $90.00 , $7.34 ,Returned,26-04-23,55+
+Female,East,66,Headphones,Accessories, $100.00 ,3, $300.00 , $13.21 ,In Transit,13-03-23,55+
+,,,,,,,,,,,
+Female,South,23,Keyboard,Accessories, $50.00 ,5, $250.00 , $14.12 ,In Transit,10-04-23,18-24
+Female,North,66,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $10.43 ,Delivered,07-03-23,55+
+Female,North,28,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $12.71 ,Returned,31-08-23,25-34
+Male,East,57,Smartphone,Electronics, $800.00 ,2," $1,600.00 ", $12.55 ,,02-01-23,55+
+,,,,,,,,,,,
+Male,West,37,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $17.23 ,Returned,10-01-23,35-44
+Male,East,52,Headphones,Accessories, $100.00 ,3, $300.00 , $19.53 ,In Transit,16-01-23,45-54
+,,,,,,,,,,,
+Female,East,54,Mouse,Accessories, $30.00 ,5, $150.00 , $14.71 ,In Transit,04-12-23,45-54
+Female,South,48,Keyboard,Accessories, $50.00 ,2, $100.00 , $12.46 ,In Transit,09-04-23,45-54
+Male,East,61,Monitor,Electronics, $300.00 ,2, $600.00 , $12.26 ,Returned,25-04-23,55+
+Female,East,57,Headphones,Accessories, $100.00 ,4, $400.00 , $8.84 ,In Transit,28-02-23,55+
+Female,South,64,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $13.46 ,In Transit,09-05-23,55+
+Female,West,19,Monitor,Electronics, $300.00 ,5," $1,500.00 ", $19.39 ,Returned,08-12-23,18-24
+Male,North,62,Headphones,Accessories, $100.00 ,2, $200.00 , $5.13 ,Delivered,01-11-23,55+
+Male,East,66,Mouse,Accessories, $30.00 ,2, $60.00 , $6.23 ,In Transit,11-06-23,55+
+Female,South,69,Smartwatch,Wearables, $200.00 ,4, $800.00 , $12.26 ,In Transit,09-10-23,55+
+Female,East,66,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $16.92 ,In Transit,23-09-23,55+
+Female,West,54,Smartphone,Electronics," $1,658.43 ",2," $1,600.00 ", $15.80 ,In Transit,06-04-23,45-54
+Male,South,32,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $8.53 ,Returned,17-11-23,25-34
+Female,East,38,Monitor,Electronics, $300.00 ,1, $300.00 , $7.57 ,Delivered,07-02-23,35-44
+,,,,,,,,,,,
+Female,West,68,Smartwatch,Wearables, $200.00 ,3, $600.00 , $5.65 ,In Transit,18-08-23,55+
+Female,East,55,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $18.29 ,Delivered,10-01-23,55+
+Male,South,50,Monitor,Electronics, $300.00 ,3, $900.00 , $11.22 ,In Transit,16-03-23,45-54
+,,,,,,,,,,,
+,,,,,,,,,,,
+Female,North,53,Monitor,Electronics, $300.00 ,1, $300.00 , $16.32 ,Delivered,16-08-23,45-54
+Female,West,41,Headphones,Accessories, $100.00 ,5, $500.00 , $18.06 ,Delivered,15-03-23,35-44
+Female,North,22,Mouse,Accessories, $30.00 ,1, $30.00 , $8.96 ,Returned,03-03-23,18-24
+Male,South,44,Smartwatch,Wearables, $200.00 ,4, $800.00 , $6.43 ,,03-03-23,35-44
+Male,South,28,Headphones,Accessories, $100.00 ,3, $300.00 , $17.16 ,Returned,10-08-23,25-34
+Male,East,60,Mouse,Accessories, $30.00 ,3, $90.00 , $18.42 ,Delivered,25-01-23,55+
+,,,,,,,,,,,
+,,,,,,,,,,,
+Male,South,64,Keyboard,Accessories, $50.00 ,4, $200.00 , $17.18 ,In Transit,06-11-23,55+
+Male,East,64,Keyboard,Accessories, $50.00 ,1, $50.00 , $18.23 ,Delivered,24-05-23,55+
+Female,East,56,Mouse,Accessories, $30.00 ,2, $60.00 , $7.58 ,In Transit,15-02-23,55+
+Female,West,23,Smartphone,Electronics, $800.00 ,2," $1,600.00 ", $9.07 ,In Transit,19-10-23,18-24
+Female,North,61,Keyboard,Accessories, $50.00 ,1, $50.00 , $19.39 ,Delivered,28-07-23,55+
+Female,South,42,Keyboard,Accessories, $50.00 ,2, $100.00 , $12.44 ,In Transit,21-02-23,35-44
+Male,North,30,Keyboard,Accessories, $50.00 ,1, $50.00 , $19.02 ,Delivered,14-12-23,25-34
+Female,West,37,Headphones,Accessories, $100.00 ,3, $300.00 , $16.67 ,Returned,07-03-23,35-44
+Female,East,55,Mouse,Accessories, $30.00 ,1, $30.00 , $5.24 ,Returned,25-05-23,55+
+Female,North,68,Monitor,Electronics, $300.00 ,3, $900.00 , $10.39 ,Returned,09-02-23,55+
+Female,West,51,Keyboard,Accessories, $50.00 ,3, $150.00 , $19.79 ,Delivered,03-01-24,45-54
+Female,East,60,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $7.26 ,In Transit,20-08-23,55+
+Female,East,52,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $18.72 ,Delivered,02-03-23,45-54
+,,,,,,,,,,,
+Female,East,61,Monitor,Electronics, $300.00 ,1, $300.00 , $6.63 ,In Transit,14-01-23,55+
+Male,South,58,Mouse,Accessories, $30.00 ,1, $30.00 , $11.39 ,In Transit,15-05-23,55+
+Female,East,55,Keyboard,Accessories, $50.00 ,4, $200.00 , $6.66 ,,13-08-23,55+
+Female,East,18,Keyboard,Accessories, $50.00 ,4, $200.00 , $7.76 ,In Transit,20-08-23,18-24
+Female,South,41,Smartphone,Electronics, $800.00 ,1, $800.00 , $6.24 ,Delivered,03-08-23,35-44
+Female,South,56,Headphones,Accessories, $100.00 ,3, $300.00 , $5.86 ,In Transit,25-11-23,55+
+Female,South,69,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $5.35 ,Returned,30-10-23,55+
+Female,North,61,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $13.72 ,,09-03-23,55+
+Male,East,46,Smartphone,Electronics, $800.00 ,2," $1,600.00 ", $13.10 ,In Transit,07-01-23,45-54
+Male,East,30,Smartwatch,Wearables, $200.00 ,2, $400.00 , $13.54 ,In Transit,08-08-23,25-34
+Female,East,58,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $5.65 ,Delivered,16-12-23,55+
+Female,South,49,Monitor,Electronics, $300.00 ,3, $900.00 , $17.93 ,Delivered,29-05-23,45-54
+Female,North,29,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $5.79 ,In Transit,04-09-23,25-34
+Female,North,54,Smartphone,Electronics, $800.00 ,1, $800.00 , $13.72 ,In Transit,30-08-23,45-54
+Male,West,68,Keyboard,Accessories, $50.00 ,3, $150.00 , $8.99 ,Delivered,02-02-23,55+
+Male,South,66,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $17.59 ,Returned,12-09-23,55+
+Male,East,39,Keyboard,Accessories, $50.00 ,4, $200.00 , $13.51 ,Delivered,21-12-23,35-44
+Male,South,64,Smartphone,Electronics, $800.00 ,1, $800.00 , $19.15 ,Delivered,07-10-23,55+
+Female,North,57,Keyboard,Accessories, $50.00 ,2, $100.00 , $16.78 ,,16-11-23,55+
+,,,,,,,,,,,
+Male,North,42,Mouse,Accessories, $30.00 ,5, $150.00 , $9.26 ,Delivered,21-02-23,35-44
+,,,,,,,,,,,
+Female,South,36,Mouse,Accessories, $30.00 ,5, $150.00 , $6.58 ,In Transit,17-10-23,35-44
+Female,South,66,Mouse,Accessories, $30.00 ,2, $60.00 , $12.21 ,Delivered,05-06-23,55+
+Male,West,58,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $6.40 ,Delivered,03-03-23,55+
+Male,South,54,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $19.43 ,In Transit,12-07-23,45-54
+Female,North,57,Monitor,Electronics, $300.00 ,1, $300.00 , $15.49 ,In Transit,05-02-23,55+
+,,,,,,,,,,,
+Male,North,54,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $5.05 ,Delivered,12-07-23,45-54
+Female,West,37,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $12.95 ,Returned,06-11-23,35-44
+Female,West,58,Headphones,Accessories, $100.00 ,5, $500.00 , $19.98 ,Returned,13-08-23,55+
+Male,South,19,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $12.30 ,Delivered,23-01-23,18-24
+Female,South,50,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $7.42 ,Delivered,07-10-23,45-54
+Female,West,50,Mouse,Accessories, $30.00 ,1, $30.00 , $15.21 ,In Transit,15-11-23,45-54
+Female,West,59,Monitor,Electronics, $300.00 ,3, $900.00 , $19.80 ,In Transit,26-12-23,55+
+,,,,,,,,,,,
+,,,,,,,,,,,
+Male,West,67,Keyboard,Accessories, $50.00 ,5, $250.00 , $5.81 ,Delivered,18-05-23,55+
+Male,West,55,Headphones,Accessories, $100.00 ,5, $500.00 , $7.98 ,Returned,16-05-23,55+
+Female,East,49,Mouse,Accessories, $30.00 ,5, $150.00 , $19.83 ,In Transit,11-09-23,45-54
+Male,West,51,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $16.14 ,Returned,12-06-23,45-54
+Female,North,37,Mouse,Accessories, $30.00 ,4, $120.00 , $9.00 ,Returned,03-01-24,35-44
+Female,North,66,Smartphone,Electronics, $800.00 ,1, $800.00 , $16.42 ,In Transit,26-09-23,55+
+Female,South,57,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $9.69 ,Delivered,22-11-23,55+
+,,,,,,,,,,,
+Male,West,40,Keyboard,Accessories, $50.00 ,2, $100.00 , $14.00 ,Delivered,23-11-23,35-44
+Female,East,61,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $12.21 ,Returned,28-10-23,55+
+Male,North,22,Keyboard,Accessories, $50.00 ,4, $200.00 , $9.82 ,Delivered,05-01-23,18-24
+Male,North,23,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $14.50 ,Delivered,15-11-23,18-24
+Male,North,63,Mouse,Accessories, $30.00 ,4, $120.00 , $14.68 ,Returned,11-03-23,55+
+Male,West,19,Mouse,Accessories, $30.00 ,1, $30.00 , $17.33 ,Delivered,31-08-23,18-24
+Male,North,26,Headphones,Accessories, $100.00 ,2, $200.00 , $17.84 ,Delivered,12-12-23,25-34
+Female,North,35,Monitor,Electronics, $300.00 ,5," $1,500.00 ", $19.58 ,Delivered,22-01-23,35-44
+Male,South,27,Keyboard,Accessories, $50.00 ,5, $250.00 , $17.69 ,In Transit,31-12-23,25-34
+Female,East,26,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $18.99 ,In Transit,31-12-23,25-34
+Female,South,23,Keyboard,Accessories, $50.00 ,5, $250.00 , $17.96 ,In Transit,18-08-23,18-24
+Female,East,67,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $11.14 ,In Transit,25-06-23,55+
+Female,West,41,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $14.86 ,Returned,21-10-23,35-44
+,,,,,,,,,,,
+Male,East,41,Headphones,Accessories, $207.30 ,2, $200.00 , $9.15 ,Returned,23-04-23,35-44
+Male,East,64,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $13.49 ,Returned,09-09-23,55+
+,,,,,,,,,,,
+Female,East,50,Smartphone,Electronics, $800.00 ,3," $2,400.00 ", $10.13 ,Returned,26-06-23,45-54
+Male,South,64,Headphones,Accessories, $100.00 ,2, $200.00 , $10.57 ,In Transit,03-06-23,55+
+Male,South,40,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $14.19 ,In Transit,20-05-23,35-44
+Male,East,64,Smartwatch,Wearables, $200.00 ,3, $600.00 , $5.70 ,In Transit,07-04-23,55+
+Female,East,37,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $5.60 ,Returned,18-11-23,35-44
+Male,South,44,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $18.21 ,In Transit,01-05-23,35-44
+Male,West,26,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $12.84 ,,27-05-23,25-34
+Male,West,18,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $18.07 ,Returned,23-01-23,18-24
+,,,,,,,,,,,
+Male,North,68,Headphones,Accessories, $100.00 ,4, $400.00 , $11.52 ,Returned,29-11-23,55+
+Female,South,64,Monitor,Electronics, $300.00 ,3, $900.00 , $15.77 ,Delivered,29-09-23,55+
+Male,North,68,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $5.24 ,Delivered,07-11-23,55+
+Male,West,54,Headphones,Accessories, $100.00 ,5, $500.00 , $8.64 ,Delivered,20-10-23,45-54
+Male,North,25,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $13.08 ,In Transit,18-09-23,25-34
+,,,,,,,,,,,
+Male,West,18,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $13.44 ,Delivered,02-05-23,18-24
+,,,,,,,,,,,
+Male,East,67,Monitor,Electronics, $300.00 ,1, $300.00 , $8.65 ,Returned,27-08-23,55+
+Female,West,66,Headphones,Accessories, $100.00 ,5, $500.00 , $14.84 ,Delivered,08-06-23,55+
+Female,North,55,Monitor,Electronics, $300.00 ,1, $300.00 , $7.38 ,Delivered,26-10-23,55+
+Female,East,51,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $12.33 ,In Transit,07-01-23,45-54
+Male,East,37,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $19.55 ,Delivered,23-04-23,35-44
+,,,,,,,,,,,
+,,,,,,,,,,,
+Female,South,69,Smartwatch,Wearables, $200.00 ,3, $600.00 , $19.07 ,Delivered,16-07-23,55+
+Male,East,57,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $15.99 ,Returned,04-01-23,55+
+Male,East,19,Headphones,Accessories, $100.00 ,5, $500.00 , $19.53 ,In Transit,08-04-23,18-24
+Male,South,43,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $13.04 ,In Transit,03-05-23,35-44
+,,,,,,,,,,,
+Male,North,45,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $15.02 ,Returned,28-09-23,45-54
+Female,East,48,Keyboard,Accessories, $50.00 ,4, $200.00 , $8.27 ,In Transit,22-05-23,45-54
+Male,South,52,Mouse,Accessories, $30.00 ,3, $90.00 , $8.66 ,In Transit,30-03-23,45-54
+Female,South,46,Headphones,Accessories, $100.00 ,5, $500.00 , $11.88 ,Returned,02-08-23,45-54
+Male,North,21,Keyboard,Accessories, $50.00 ,3, $150.00 , $15.03 ,In Transit,20-05-23,18-24
+Female,West,36,Keyboard,Accessories, $50.00 ,5, $250.00 , $12.63 ,Delivered,17-12-23,35-44
+Male,West,33,Monitor,Electronics, $300.00 ,3, $900.00 , $7.25 ,Returned,01-11-23,25-34
+Male,West,54,Headphones,Accessories, $100.00 ,2, $200.00 , $6.22 ,Returned,03-01-24,45-54
+Male,East,50,Monitor,Electronics, $300.00 ,3, $900.00 , $14.75 ,Delivered,08-01-23,45-54
+Female,East,51,Headphones,Accessories, $100.00 ,4, $400.00 , $17.18 ,In Transit,25-09-23,45-54
+Female,East,51,Keyboard,Accessories, $50.00 ,3, $150.00 , $14.99 ,In Transit,18-04-23,45-54
+,,,,,,,,,,,
+Female,West,30,Headphones,Accessories, $100.00 ,1, $100.00 , $6.47 ,Delivered,01-06-23,25-34
+Female,South,32,Keyboard,Accessories, $50.00 ,5, $250.00 , $10.39 ,In Transit,28-06-23,25-34
+Female,South,32,Monitor,Electronics, $300.00 ,1, $300.00 , $9.57 ,In Transit,24-04-23,25-34
+Male,North,63,Smartphone,Electronics, $800.00 ,2," $1,600.00 ", $6.57 ,Delivered,08-12-23,55+
+Male,West,54,Keyboard,Accessories, $50.00 ,1, $50.00 , $13.90 ,Delivered,04-11-23,45-54
+Male,West,54,Laptop,Electronics," $3,109.56 ",5," $7,500.00 ", $19.71 ,Returned,18-04-23,45-54
+Male,East,64,Smartwatch,Wearables, $200.00 ,2, $400.00 , $11.49 ,Returned,24-09-23,55+
+Female,East,61,Mouse,Accessories, $30.00 ,2, $60.00 , $13.74 ,Delivered,13-11-23,55+
+Male,East,51,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $15.23 ,Returned,10-10-23,45-54
+Female,South,28,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $19.84 ,,17-02-23,25-34
+Female,North,51,Headphones,Accessories, $100.00 ,3, $300.00 , $18.63 ,,20-03-23,45-54
+Female,North,20,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $15.07 ,In Transit,28-10-23,18-24
+Male,South,33,Monitor,Electronics, $300.00 ,5," $1,500.00 ", $15.98 ,In Transit,16-01-23,25-34
+Male,West,28,Monitor,Electronics, $300.00 ,2, $600.00 , $14.13 ,Delivered,11-02-23,25-34
+Male,East,57,Monitor,Electronics, $300.00 ,2, $600.00 , $17.67 ,In Transit,18-12-23,55+
+Female,West,53,Keyboard,Accessories, $50.00 ,5, $250.00 , $15.62 ,Returned,01-09-23,45-54
+Female,South,56,Monitor,Electronics, $300.00 ,5," $1,500.00 ", $12.62 ,Returned,20-07-23,55+
+Male,North,34,Monitor,Electronics, $300.00 ,2, $600.00 , $11.88 ,Returned,23-09-23,25-34
+Male,East,32,Monitor,Electronics, $300.00 ,2, $600.00 , $12.92 ,Returned,14-07-23,25-34
+Male,North,20,Smartwatch,Wearables, $200.00 ,4, $800.00 , $15.78 ,Delivered,14-06-23,18-24
+,,,,,,,,,,,
+,,,,,,,,,,,
+Male,South,69,Monitor,Electronics, $300.00 ,2, $600.00 , $18.79 ,Delivered,29-07-23,55+
+Female,North,64,Smartphone,Electronics, $800.00 ,2," $1,600.00 ", $17.54 ,Returned,05-08-23,55+
+Male,North,57,Keyboard,Accessories, $50.00 ,3, $150.00 , $18.44 ,In Transit,21-02-23,55+
+Male,North,34,Monitor,Electronics, $300.00 ,2, $600.00 , $12.94 ,In Transit,05-05-23,25-34
+Female,West,42,Monitor,Electronics, $300.00 ,3, $900.00 , $14.11 ,Returned,16-01-23,35-44
+,,,,,,,,,,,
+Male,North,41,Smartwatch,Wearables, $200.00 ,1, $200.00 , $18.84 ,In Transit,20-04-23,35-44
+Male,North,29,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $13.95 ,Delivered,30-10-23,25-34
+,,,,,,,,,,,
+Male,North,45,Mouse,Accessories, $30.00 ,3, $90.00 , $10.06 ,Delivered,18-02-23,45-54
+Male,North,57,Mouse,Accessories, $30.00 ,5, $150.00 , $19.16 ,Returned,07-01-23,55+
+Male,West,50,Headphones,Accessories, $100.00 ,2, $200.00 , $19.13 ,,08-10-23,45-54
+Male,West,60,Keyboard,Accessories, $50.00 ,5, $250.00 , $13.00 ,Returned,19-12-23,55+
+Female,East,38,Keyboard,Accessories, $50.00 ,3, $150.00 , $6.14 ,Returned,10-04-23,35-44
+Male,East,68,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $11.29 ,Returned,01-06-23,55+
+Male,West,26,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $14.83 ,Delivered,03-07-23,25-34
+Female,North,64,Monitor,Electronics, $300.00 ,3, $900.00 , $15.97 ,Delivered,15-10-23,55+
+Female,East,64,Headphones,Accessories, $100.00 ,4, $400.00 , $12.48 ,In Transit,10-06-23,55+
+Female,East,30,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $10.86 ,Delivered,03-09-23,25-34
+Male,East,25,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $16.95 ,Delivered,04-03-23,25-34
+Female,East,52,Headphones,Accessories, $100.00 ,2, $200.00 , $18.95 ,In Transit,24-01-23,45-54
+Male,North,43,Mouse,Accessories, $30.00 ,4, $120.00 , $10.77 ,,24-09-23,35-44
+Female,South,46,Headphones,Accessories, $100.00 ,2, $200.00 , $19.54 ,Returned,20-06-23,45-54
+Male,East,69,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $10.00 ,Delivered,15-11-23,55+
+,,,,,,,,,,,
+Female,East,56,Monitor,Electronics, $300.00 ,3, $900.00 , $17.34 ,Returned,22-05-23,55+
+Male,West,29,Keyboard,Accessories, $50.00 ,3, $150.00 , $12.06 ,Returned,02-04-23,25-34
+,,,,,,,,,,,
+,,,,,,,,,,,
+Female,North,54,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $19.49 ,Returned,22-08-23,45-54
+Male,West,59,Keyboard,Accessories, $50.00 ,2, $100.00 , $15.51 ,Returned,16-07-23,55+
+Male,East,57,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $9.77 ,Returned,27-01-23,55+
+Male,West,30,Headphones,Accessories, $100.00 ,1, $100.00 , $15.64 ,Delivered,06-09-23,25-34
+Male,East,56,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $12.22 ,Delivered,06-05-23,55+
+Male,East,21,Headphones,Accessories, $100.00 ,5, $500.00 , $13.70 ,In Transit,14-01-23,18-24
+,,,,,,,,,,,
+Female,North,45,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $14.76 ,Delivered,02-01-23,45-54
+,,,,,,,,,,,
+Female,East,44,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $17.36 ,Returned,03-07-23,35-44
+Male,North,51,Headphones,Accessories, $100.00 ,4, $400.00 , $10.89 ,Delivered,14-01-23,45-54
+,,,,,,,,,,,
+Male,North,41,Monitor,Electronics, $300.00 ,1, $300.00 , $9.50 ,Delivered,11-06-23,35-44
+Female,West,19,Monitor,Electronics, $300.00 ,3, $900.00 , $13.79 ,In Transit,16-05-23,18-24
+Male,South,53,Smartphone,Electronics, $800.00 ,1, $800.00 , $5.36 ,Returned,16-03-23,45-54
+Male,West,58,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $19.93 ,In Transit,03-01-23,55+
+,,,,,,,,,,,
+Male,South,37,Smartwatch,Wearables, $200.00 ,2, $400.00 , $14.16 ,Delivered,06-06-23,35-44
+Female,East,32,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $7.52 ,Returned,28-10-23,25-34
+Male,West,65,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $10.09 ,Returned,31-01-23,55+
+Male,North,54,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $6.73 ,In Transit,28-04-23,45-54
+Female,West,20,Mouse,Accessories, $30.00 ,4, $120.00 , $5.19 ,Returned,22-07-23,18-24
+,,,,,,,,,,,
+Male,South,66,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $13.08 ,In Transit,20-03-23,55+
+,,,,,,,,,,,
+Male,North,68,Mouse,Accessories, $30.00 ,2, $60.00 , $9.28 ,Delivered,04-05-23,55+
+Female,South,48,Keyboard,Accessories, $50.00 ,5, $250.00 , $14.34 ,Delivered,28-09-23,45-54
+Male,South,56,Monitor,Electronics, $300.00 ,2, $600.00 , $17.13 ,In Transit,01-08-23,55+
+Male,North,57,Monitor,Electronics, $300.00 ,1, $300.00 , $13.55 ,Delivered,26-09-23,55+
+Male,West,40,Mouse,Accessories, $30.00 ,5, $150.00 , $9.01 ,Returned,14-11-23,35-44
+Male,North,67,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $13.30 ,Delivered,01-11-23,55+
+Female,South,33,Headphones,Accessories, $100.00 ,5, $500.00 , $8.27 ,In Transit,30-06-23,25-34
+Female,West,66,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $9.26 ,In Transit,10-10-23,55+
+Male,West,46,Monitor,Electronics, $300.00 ,3, $900.00 , $18.83 ,Returned,19-09-23,45-54
+,,,,,,,,,,,
+Male,East,42,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $12.17 ,,09-01-23,35-44
+Male,North,32,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $8.53 ,In Transit,11-08-23,25-34
+Male,West,56,Monitor,Electronics, $300.00 ,1, $300.00 , $8.87 ,Returned,25-07-23,55+
+Female,South,67,Smartwatch,Wearables, $200.00 ,1, $200.00 , $5.45 ,Returned,30-09-23,55+
+,,,,,,,,,,,
+Male,South,30,Headphones,Accessories, $100.00 ,4, $400.00 , $13.94 ,Delivered,22-12-23,25-34
+Male,East,21,Headphones,Accessories, $100.00 ,4, $400.00 , $12.96 ,In Transit,13-09-23,18-24
+Female,South,38,Keyboard,Accessories, $50.00 ,4, $200.00 , $11.00 ,Returned,26-12-23,35-44
+Male,West,27,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $13.22 ,In Transit,06-09-23,25-34
+Male,North,69,Monitor,Electronics, $300.00 ,5," $1,500.00 ", $17.75 ,In Transit,14-11-23,55+
+Female,West,69,Smartphone,Electronics, $800.00 ,3," $2,400.00 ", $15.53 ,In Transit,25-04-23,55+
+Female,South,67,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $13.92 ,Delivered,26-07-23,55+
+Male,West,47,Smartwatch,Wearables, $200.00 ,3, $600.00 , $13.73 ,Delivered,15-06-23,45-54
+Male,West,32,Monitor,Electronics, $300.00 ,3, $900.00 , $8.48 ,Delivered,22-05-23,25-34
+Female,West,41,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $13.82 ,Delivered,07-12-23,35-44
+Female,East,29,Mouse,Accessories, $30.00 ,1, $30.00 , $11.33 ,In Transit,28-02-23,25-34
+Male,North,65,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $11.14 ,,03-01-24,55+
+Female,East,48,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $10.90 ,In Transit,04-05-23,45-54
+Male,East,68,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $19.37 ,,27-08-23,55+
+Female,North,42,Mouse,Accessories, $30.00 ,5, $150.00 , $8.28 ,Returned,14-11-23,35-44
+,,,,,,,,,,,
+Female,North,37,Smartphone,Electronics, $800.00 ,1, $800.00 , $12.78 ,Returned,03-01-23,35-44
+Female,South,54,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $12.84 ,Delivered,20-02-23,45-54
+Female,South,57,Monitor,Electronics, $300.00 ,1, $300.00 , $6.55 ,Delivered,13-04-23,55+
+Female,East,37,Keyboard,Accessories, $50.00 ,4, $200.00 , $12.81 ,Delivered,05-01-23,35-44
+Female,North,64,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $18.19 ,In Transit,22-05-23,55+
+Male,South,54,Smartwatch,Wearables, $200.00 ,3, $600.00 , $16.36 ,In Transit,10-08-23,45-54
+Male,West,67,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $14.85 ,Delivered,11-06-23,55+
+Female,East,29,Smartwatch,Wearables, $200.00 ,4, $800.00 , $17.93 ,Delivered,25-02-23,25-34
+Female,South,68,Headphones,Accessories, $100.00 ,2, $200.00 , $11.73 ,,05-06-23,55+
+Male,West,37,Mouse,Accessories, $30.00 ,3, $90.00 , $13.86 ,Delivered,17-10-23,35-44
+Male,North,22,Mouse,Accessories, $30.00 ,5, $150.00 , $18.22 ,Returned,25-01-23,18-24
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Male,North,40,Smartwatch,Wearables, $200.00 ,4, $800.00 , $11.68 ,Delivered,27-12-23,35-44
+Male,South,65,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $13.18 ,In Transit,22-12-23,55+
+Female,East,57,Smartphone,Electronics, $800.00 ,2," $1,600.00 ", $9.01 ,In Transit,08-11-23,55+
+Female,South,50,Headphones,Accessories, $100.00 ,3, $300.00 , $17.63 ,Delivered,07-12-23,45-54
+Male,West,19,Monitor,Electronics, $300.00 ,1, $300.00 , $7.48 ,In Transit,06-03-23,18-24
+,,,,,,,,,,,
+,,,,,,,,,,,
+Female,South,55,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $8.31 ,Returned,13-09-23,55+
+,,,,,,,,,,,
+Female,South,33,Keyboard,Accessories, $50.00 ,2, $100.00 , $16.28 ,Returned,20-04-23,25-34
+Female,North,53,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $10.58 ,,31-03-23,45-54
+Male,East,46,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $19.38 ,In Transit,20-11-23,45-54
+Female,West,54,Mouse,Accessories, $30.00 ,3, $90.00 , $14.77 ,In Transit,09-12-23,45-54
+Male,West,41,Smartwatch,Wearables, $200.00 ,1, $200.00 , $13.72 ,In Transit,06-06-23,35-44
+Male,West,68,Mouse,Accessories, $30.00 ,5, $150.00 , $16.66 ,In Transit,12-12-23,55+
+Male,West,57,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $8.19 ,In Transit,30-07-23,55+
+Male,West,42,Headphones,Accessories, $100.00 ,5, $500.00 , $5.43 ,Delivered,24-10-23,35-44
+Male,East,69,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $7.71 ,In Transit,25-10-23,55+
+,,,,,,,,,,,
+,,,,,,,,,,,
+Male,South,50,Monitor,Electronics, $300.00 ,5," $1,500.00 ", $8.08 ,Returned,03-01-24,45-54
+Female,East,41,Monitor,Electronics, $300.00 ,1, $300.00 , $16.71 ,Delivered,11-10-23,35-44
+,,,,,,,,,,,
+Male,North,44,Smartwatch,Wearables, $200.00 ,3, $600.00 , $11.82 ,Delivered,18-04-23,35-44
+Male,South,58,Smartphone,Electronics, $800.00 ,2," $1,600.00 ", $12.94 ,Returned,11-11-23,55+
+Male,West,61,Laptop,Electronics," $3,109.56 ",1," $1,500.00 ", $18.37 ,In Transit,01-09-23,55+
+Female,West,30,Mouse,Accessories, $30.00 ,3, $90.00 , $11.78 ,Returned,14-08-23,25-34
+Female,East,38,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $7.52 ,Delivered,03-02-23,35-44
+,,,,,,,,,,,
+Male,South,49,Monitor,Electronics, $300.00 ,3, $900.00 , $17.94 ,,20-01-23,45-54
+,,,,,,,,,,,
+Female,South,30,Monitor,Electronics, $300.00 ,1, $300.00 , $14.91 ,In Transit,29-07-23,25-34
+Female,East,47,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $15.50 ,Delivered,25-07-23,45-54
+Male,East,68,Monitor,Electronics, $300.00 ,3, $900.00 , $16.44 ,Delivered,16-12-23,55+
+Male,West,67,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $13.04 ,Returned,30-03-23,55+
+Male,East,19,Headphones,Accessories, $100.00 ,2, $200.00 , $14.11 ,Returned,22-01-23,18-24
+Male,North,38,Monitor,Electronics, $300.00 ,2, $600.00 , $5.79 ,Returned,19-01-23,35-44
+Male,South,57,Smartwatch,Wearables, $200.00 ,4, $800.00 , $13.93 ,Delivered,13-12-23,55+
+Male,South,23,Smartphone,Electronics, $800.00 ,1, $800.00 , $6.70 ,,06-07-23,18-24
+Female,West,40,Monitor,Electronics, $300.00 ,1, $300.00 , $11.65 ,Delivered,22-07-23,35-44
+Female,North,66,Keyboard,Accessories, $50.00 ,4, $200.00 , $14.49 ,Delivered,06-06-23,55+
+Male,North,51,Monitor,Electronics, $300.00 ,5," $1,500.00 ", $14.23 ,In Transit,03-08-23,45-54
+Male,North,60,Monitor,Electronics, $300.00 ,2, $600.00 , $15.88 ,In Transit,12-01-23,55+
+Male,East,67,Keyboard,Accessories, $50.00 ,1, $50.00 , $19.41 ,In Transit,29-07-23,55+
+,,,,,,,,,,,
+Male,West,50,Mouse,Accessories, $30.00 ,4, $120.00 , $17.84 ,Returned,09-03-23,45-54
+Male,South,19,Smartwatch,Wearables, $200.00 ,3, $600.00 , $10.07 ,In Transit,18-11-23,18-24
+Male,West,65,Mouse,Accessories, $30.00 ,5, $150.00 , $15.11 ,Delivered,31-08-23,55+
+Female,East,36,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $11.23 ,In Transit,17-08-23,35-44
+Male,South,51,Keyboard,Accessories, $50.00 ,5, $250.00 , $15.38 ,Returned,07-08-23,45-54
+Female,East,65,Keyboard,Accessories, $50.00 ,3, $150.00 , $10.84 ,,17-11-23,55+
+Female,South,58,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $13.40 ,Delivered,31-03-23,55+
+Female,South,22,Headphones,Accessories, $100.00 ,3, $300.00 , $7.70 ,Delivered,20-07-23,18-24
+Male,North,57,Mouse,Accessories, $30.00 ,4, $120.00 , $15.44 ,Delivered,12-06-23,55+
+Female,South,67,Headphones,Accessories, $100.00 ,5, $500.00 , $8.74 ,Returned,08-06-23,55+
+,,,,,,,,,,,
+,,,,,,,,,,,
+Male,East,60,Smartwatch,Wearables, $200.00 ,1, $200.00 , $10.14 ,,02-12-23,55+
+Female,West,48,Keyboard,Accessories, $50.00 ,3, $150.00 , $6.42 ,In Transit,31-10-23,45-54
+Female,South,29,Monitor,Electronics, $300.00 ,5," $1,500.00 ", $18.18 ,In Transit,06-09-23,25-34
+,,,,,,,,,,,
+Female,South,35,Smartphone,Electronics, $800.00 ,1, $800.00 , $17.30 ,In Transit,07-05-23,35-44
+Male,East,44,Mouse,Accessories, $30.00 ,3, $90.00 , $14.91 ,In Transit,20-10-23,35-44
+Female,South,55,Smartwatch,Wearables, $200.00 ,4, $800.00 , $7.31 ,Returned,16-03-23,55+
+Female,West,42,Keyboard,Accessories, $50.00 ,1, $50.00 , $8.05 ,Delivered,13-07-23,35-44
+Female,North,18,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $5.29 ,Returned,21-01-23,18-24
+Male,West,18,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $19.41 ,Delivered,19-08-23,18-24
+Female,North,44,Monitor,Electronics, $300.00 ,2, $600.00 , $19.97 ,In Transit,30-09-23,35-44
+,,,,,,,,,,,
+Male,West,63,Keyboard,Accessories, $50.00 ,2, $100.00 , $6.28 ,Returned,21-03-23,55+
+Female,East,36,Keyboard,Accessories, $50.00 ,4, $200.00 , $9.30 ,Returned,09-07-23,35-44
+Male,West,25,Keyboard,Accessories, $50.00 ,1, $50.00 , $18.71 ,In Transit,07-12-23,25-34
+,,,,,,,,,,,
+Male,West,49,Smartphone,Electronics, $800.00 ,1, $800.00 , $12.30 ,Delivered,30-05-23,45-54
+,,,,,,,,,,,
+Female,South,66,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $14.73 ,Delivered,01-12-23,55+
+Female,North,49,Smartwatch,Wearables, $200.00 ,3, $600.00 , $9.26 ,Delivered,23-10-23,45-54
+Female,East,40,Keyboard,Accessories, $50.00 ,4, $200.00 , $15.14 ,Delivered,17-06-23,35-44
+Female,East,53,Smartwatch,Wearables, $200.00 ,4, $800.00 , $14.28 ,,05-11-23,45-54
+Female,West,46,Laptop,Electronics," $3,109.56 ",2," $3,000.00 ", $6.44 ,Delivered,08-12-23,45-54
+Female,South,20,Keyboard,Accessories, $50.00 ,3, $150.00 , $11.05 ,Returned,16-09-23,18-24
+Female,South,55,Mouse,Accessories, $30.00 ,3, $90.00 , $11.24 ,Returned,09-09-23,55+
+Female,West,25,Smartphone,Electronics, $800.00 ,1, $800.00 , $7.25 ,In Transit,09-03-23,25-34
+,,,,,,,,,,,
+,,,,,,,,,,,
+Female,West,23,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $19.41 ,Delivered,21-12-23,18-24
+Male,West,66,Monitor,Electronics, $300.00 ,1, $300.00 , $7.84 ,In Transit,08-12-23,55+
+Female,South,60,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $9.99 ,Returned,29-06-23,55+
+Male,South,20,Monitor,Electronics, $300.00 ,2, $600.00 , $9.77 ,Returned,24-09-23,18-24
+Female,West,51,Smartphone,Electronics, $800.00 ,3," $2,400.00 ", $15.28 ,In Transit,22-05-23,45-54
+Female,East,35,Mouse,Accessories, $30.00 ,3, $90.00 , $8.79 ,Returned,29-07-23,35-44
+Male,West,40,Keyboard,Accessories, $50.00 ,4, $200.00 , $12.79 ,Delivered,19-10-23,35-44
+Male,North,54,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $9.55 ,Delivered,02-09-23,45-54
+Female,East,58,Mouse,Accessories, $30.00 ,4, $120.00 , $8.85 ,Returned,21-06-23,55+
+Male,South,26,Keyboard,Accessories, $50.00 ,2, $100.00 , $9.76 ,In Transit,13-06-23,25-34
+Female,East,43,Smartwatch,Wearables, $200.00 ,1, $200.00 , $6.18 ,In Transit,28-12-23,35-44
+Male,East,69,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $6.08 ,Returned,06-07-23,55+
+Male,West,61,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $9.46 ,Delivered,13-06-23,55+
+Female,West,61,Headphones,Accessories, $100.00 ,1, $100.00 , $6.60 ,Returned,20-03-23,55+
+Female,North,67,Mouse,Accessories, $30.00 ,4, $120.00 , $19.59 ,In Transit,20-02-23,55+
+Female,West,38,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $12.55 ,Delivered,27-08-23,35-44
+Male,North,69,Keyboard,Accessories, $50.00 ,5, $250.00 , $14.32 ,,03-02-23,55+
+Male,West,51,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $6.74 ,Delivered,27-09-23,45-54
+Male,South,30,Headphones,Accessories, $100.00 ,2, $200.00 , $7.01 ,In Transit,18-03-23,25-34
+Male,East,33,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $14.97 ,Delivered,17-01-23,25-34
+Female,West,44,Headphones,Accessories, $100.00 ,4, $400.00 , $10.03 ,In Transit,11-05-23,35-44
+Male,South,66,Keyboard,Accessories, $50.00 ,2, $100.00 , $8.51 ,In Transit,10-03-23,55+
+Female,West,65,Keyboard,Accessories, $50.00 ,1, $50.00 , $7.55 ,Delivered,27-06-23,55+
+Female,North,46,Mouse,Accessories, $30.00 ,4, $120.00 , $18.31 ,In Transit,07-11-23,45-54
+Male,North,65,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $16.39 ,Returned,08-04-23,55+
+Male,North,68,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $18.77 ,Returned,27-10-23,55+
+Female,East,20,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $9.26 ,Returned,01-02-23,18-24
+Male,North,66,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $15.69 ,In Transit,27-05-23,55+
+,,,,,,,,,,,
+Male,West,66,Smartphone,Electronics, $800.00 ,3," $2,400.00 ", $15.27 ,In Transit,05-05-23,55+
+Female,West,29,Keyboard,Accessories, $50.00 ,4, $200.00 , $6.75 ,Delivered,22-12-23,25-34
+Female,East,51,Headphones,Accessories, $100.00 ,2, $200.00 , $5.79 ,Delivered,13-06-23,45-54
+Male,East,45,Smartwatch,Wearables, $200.00 ,4, $800.00 , $10.62 ,Returned,11-01-23,45-54
+,,,,,,,,,,,
+,,,,,,,,,,,
+Male,East,50,Mouse,Accessories, $30.00 ,5, $150.00 , $6.26 ,Delivered,07-04-23,45-54
+Male,South,54,Headphones,Accessories, $100.00 ,1, $100.00 , $19.25 ,Delivered,18-12-23,45-54
+Male,West,59,Mouse,Accessories, $30.00 ,2, $60.00 , $18.17 ,In Transit,17-11-23,55+
+Female,West,50,Monitor,Electronics, $300.00 ,1, $300.00 , $5.94 ,Returned,26-12-23,45-54
+Male,East,53,Headphones,Accessories, $100.00 ,3, $300.00 , $15.61 ,In Transit,04-12-23,45-54
+Male,West,55,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $9.06 ,Delivered,08-06-23,55+
+,,,,,,,,,,,
+Male,North,45,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $7.16 ,In Transit,13-11-23,45-54
+Male,West,32,Monitor,Electronics, $300.00 ,2, $600.00 , $9.52 ,In Transit,17-10-23,25-34
+Female,North,35,Headphones,Accessories, $100.00 ,4, $400.00 , $12.85 ,Delivered,23-07-23,35-44
+Male,West,33,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $5.14 ,Returned,15-06-23,25-34
+Female,East,36,Mouse,Accessories, $30.00 ,5, $150.00 , $6.78 ,In Transit,18-07-23,35-44
+Female,South,38,Keyboard,Accessories, $50.00 ,5, $250.00 , $12.25 ,In Transit,12-05-23,35-44
+Male,North,64,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $9.87 ,Delivered,19-02-23,55+
+Male,West,66,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $11.50 ,In Transit,17-10-23,55+
+Male,South,20,Mouse,Accessories, $30.00 ,3, $90.00 , $16.07 ,Returned,30-09-23,18-24
+Female,West,69,Keyboard,Accessories, $50.00 ,4, $200.00 , $18.96 ,Returned,20-05-23,55+
+Female,East,37,Smartwatch,Wearables, $200.00 ,4, $800.00 , $5.98 ,In Transit,27-04-23,35-44
+Male,South,32,Monitor,Electronics, $300.00 ,2, $600.00 , $14.24 ,Delivered,27-03-23,25-34
+Male,South,51,Monitor,Electronics, $300.00 ,5," $1,500.00 ", $11.39 ,Returned,31-07-23,45-54
+Female,North,58,Keyboard,Accessories, $50.00 ,4, $200.00 , $17.65 ,In Transit,11-02-23,55+
+Female,East,37,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $6.67 ,In Transit,04-01-23,35-44
+Male,South,55,Smartwatch,Wearables, $200.00 ,3, $600.00 , $8.26 ,,30-08-23,55+
+Female,West,35,Monitor,Electronics, $300.00 ,5," $1,500.00 ", $18.94 ,Returned,06-03-23,35-44
+Female,South,60,Monitor,Electronics, $300.00 ,3, $900.00 , $19.78 ,In Transit,26-02-23,55+
+Male,North,43,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $10.65 ,Returned,25-02-23,35-44
+Female,North,26,Smartwatch,Wearables, $200.00 ,4, $800.00 , $14.25 ,Delivered,03-01-23,25-34
+Male,West,51,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $6.26 ,Returned,28-12-23,45-54
+Male,South,65,Keyboard,Accessories, $50.00 ,3, $150.00 , $12.69 ,Delivered,18-11-23,55+
+Male,West,24,Smartwatch,Wearables, $200.00 ,3, $600.00 , $19.39 ,In Transit,11-03-23,18-24
+Male,North,57,Headphones,Accessories, $100.00 ,4, $400.00 , $14.49 ,In Transit,19-09-23,55+
+Male,South,52,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $13.13 ,In Transit,15-05-23,45-54
+Male,North,59,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $15.92 ,In Transit,23-10-23,55+
+Male,West,66,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $12.06 ,Returned,07-03-23,55+
+Male,East,23,Keyboard,Accessories, $50.00 ,1, $50.00 , $16.34 ,In Transit,16-01-23,18-24
+Female,North,52,Smartwatch,Wearables, $200.00 ,3, $600.00 , $15.85 ,Delivered,10-04-23,45-54
+,,,,,,,,,,,
+,,,,,,,,,,,
+Female,East,56,Mouse,Accessories, $30.00 ,4, $120.00 , $5.17 ,In Transit,23-11-23,55+
+,,,,,,,,,,,
+,,,,,,,,,,,
+Female,South,44,Smartwatch,Wearables, $200.00 ,1, $200.00 , $7.67 ,Returned,08-07-23,35-44
+Female,North,19,Keyboard,Accessories, $50.00 ,3, $150.00 , $5.76 ,In Transit,25-07-23,18-24
+,,,,,,,,,,,
+Male,West,44,Headphones,Accessories, $100.00 ,1, $100.00 , $6.43 ,Returned,28-07-23,35-44
+Male,West,69,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $7.32 ,Returned,19-09-23,55+
+Female,South,27,Smartwatch,Wearables, $200.00 ,2, $400.00 , $9.97 ,Returned,18-01-23,25-34
+Female,West,41,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $12.79 ,In Transit,06-01-23,35-44
+,,,,,,,,,,,
+Male,West,63,Mouse,Accessories, $62.19 ,5, $150.00 , $10.81 ,Delivered,01-07-23,55+
+Male,East,66,Smartwatch,Wearables, $200.00 ,4, $800.00 , $16.99 ,Returned,15-10-23,55+
+Female,North,37,Monitor,Electronics, $300.00 ,3, $900.00 , $17.15 ,In Transit,03-01-24,35-44
+Male,South,39,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $11.24 ,Returned,16-11-23,35-44
+Female,North,31,Monitor,Electronics, $300.00 ,2, $600.00 , $5.84 ,In Transit,19-08-23,25-34
+Female,West,33,Smartphone,Electronics, $800.00 ,2," $1,600.00 ", $7.61 ,Returned,08-12-23,25-34
+Male,East,68,Headphones,Accessories, $100.00 ,4, $400.00 , $14.97 ,Returned,09-12-23,55+
+Female,South,35,Monitor,Electronics, $300.00 ,1, $300.00 , $15.16 ,Returned,25-10-23,35-44
+Male,East,22,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $15.58 ,Delivered,16-12-23,18-24
+Female,North,68,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $5.57 ,Delivered,06-08-23,55+
+Male,East,38,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $11.28 ,Returned,26-04-23,35-44
+Female,West,53,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $14.35 ,Delivered,27-06-23,45-54
+Female,West,38,Keyboard,Accessories, $50.00 ,4, $200.00 , $19.17 ,Returned,26-01-23,35-44
+Male,South,26,Mouse,Accessories, $30.00 ,1, $30.00 , $10.22 ,Delivered,26-10-23,25-34
+Male,North,35,Keyboard,Accessories, $50.00 ,3, $150.00 , $12.89 ,In Transit,30-01-23,35-44
+Female,North,38,Keyboard,Accessories, $50.00 ,4, $200.00 , $7.52 ,In Transit,29-05-23,35-44
+Female,South,45,Monitor,Electronics, $300.00 ,2, $600.00 , $9.09 ,In Transit,02-10-23,45-54
+Male,North,42,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $5.56 ,In Transit,06-06-23,35-44
+,,,,,,,,,,,
+Male,South,30,Monitor,Electronics, $300.00 ,1, $300.00 , $11.26 ,Returned,31-12-23,25-34
+Male,South,20,Mouse,Accessories, $30.00 ,1, $30.00 , $5.41 ,In Transit,05-01-23,18-24
+Female,South,18,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $10.13 ,Delivered,10-06-23,18-24
+Female,South,35,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $7.74 ,Delivered,26-05-23,35-44
+,,,,,,,,,,,
+Female,South,38,Monitor,Electronics, $300.00 ,2, $600.00 , $17.38 ,Delivered,16-04-23,35-44
+Male,West,50,Keyboard,Accessories, $50.00 ,4, $200.00 , $11.39 ,Delivered,17-01-23,45-54
+Male,South,18,Laptop,Electronics," $1,500.00 ",3," $4,500.00 ", $18.83 ,In Transit,22-03-23,18-24
+Female,South,25,Smartwatch,Wearables, $200.00 ,1, $200.00 , $6.96 ,Returned,20-11-23,25-34
+Male,North,58,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $6.21 ,,21-07-23,55+
+Male,East,21,Headphones,Accessories, $100.00 ,4, $400.00 , $18.30 ,Delivered,26-07-23,18-24
+Male,West,57,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $7.57 ,Returned,18-05-23,55+
+Male,East,26,Monitor,Electronics, $621.91 ,2, $600.00 , $7.02 ,In Transit,03-01-24,25-34
+Male,West,20,Monitor,Electronics, $300.00 ,2, $600.00 , $11.06 ,,12-08-23,18-24
+Female,East,35,Mouse,Accessories, $30.00 ,5, $150.00 , $13.08 ,Delivered,16-08-23,35-44
+Female,South,21,Mouse,Accessories, $30.00 ,3, $90.00 , $10.49 ,Delivered,11-08-23,18-24
+Male,West,26,Monitor,Electronics, $300.00 ,2, $600.00 , $12.94 ,,02-01-23,25-34
+Female,North,49,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $11.24 ,In Transit,28-07-23,45-54
+,,,,,,,,,,,
+Male,East,68,Keyboard,Accessories, $50.00 ,2, $100.00 , $11.09 ,,16-08-23,55+
+Male,South,58,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $10.84 ,In Transit,22-10-23,55+
+Female,North,26,Laptop,Electronics," $1,500.00 ",4," $6,000.00 ", $5.57 ,In Transit,24-08-23,25-34
+Male,East,53,Mouse,Accessories, $30.00 ,2, $60.00 , $8.58 ,Returned,27-10-23,45-54
+,,,,,,,,,,,
+Male,South,37,Smartwatch,Wearables, $200.00 ,2, $400.00 , $18.38 ,Delivered,17-02-23,35-44
+Male,South,67,Monitor,Electronics, $300.00 ,3, $900.00 , $19.76 ,Delivered,09-11-23,55+
+Female,West,26,Mouse,Accessories, $30.00 ,1, $30.00 , $13.87 ,In Transit,10-06-23,25-34
+Male,East,34,Smartwatch,Wearables, $200.00 ,3, $600.00 , $16.93 ,In Transit,13-04-23,25-34
+Female,South,53,Mouse,Accessories, $30.00 ,3, $90.00 , $6.18 ,Delivered,25-04-23,45-54
+,,,,,,,,,,,
+Male,South,53,Monitor,Electronics, $300.00 ,3, $900.00 , $12.14 ,Returned,14-03-23,45-54
+Male,South,66,Monitor,Electronics, $300.00 ,1, $300.00 , $17.09 ,In Transit,03-04-23,55+
+Male,South,68,Keyboard,Accessories, $50.00 ,1, $50.00 , $11.23 ,Delivered,02-04-23,55+
+Female,East,54,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $5.41 ,Returned,08-07-23,45-54
+,,,,,,,,,,,
+Female,East,25,Smartwatch,Wearables, $200.00 ,2, $400.00 , $6.46 ,In Transit,19-10-23,25-34
+Male,West,58,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $14.16 ,,14-05-23,55+
+Female,North,58,Smartwatch,Wearables, $200.00 ,3, $600.00 , $14.74 ,Returned,29-09-23,55+
+Male,South,32,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $6.92 ,In Transit,26-12-23,25-34
+Male,East,67,Mouse,Accessories, $30.00 ,1, $30.00 , $13.84 ,Delivered,08-06-23,55+
+Male,North,66,Keyboard,Accessories, $50.00 ,4, $200.00 , $10.69 ,Delivered,03-06-23,55+
+Male,West,38,Headphones,Accessories, $100.00 ,3, $300.00 , $8.20 ,Returned,30-11-23,35-44
+Male,North,63,Mouse,Accessories, $30.00 ,3, $90.00 , $9.04 ,Delivered,14-02-23,55+
+Male,West,62,Keyboard,Accessories, $50.00 ,2, $100.00 , $8.68 ,In Transit,02-07-23,55+
+Female,West,50,Smartphone,Electronics, $800.00 ,1, $800.00 , $7.34 ,In Transit,13-06-23,45-54
+Male,West,23,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $11.76 ,Returned,28-03-23,18-24
+Male,East,66,Headphones,Accessories, $100.00 ,5, $500.00 , $5.40 ,Returned,24-12-23,55+
+Male,South,21,Mouse,Accessories, $30.00 ,4, $120.00 , $13.68 ,Delivered,24-05-23,18-24
+Female,South,49,Monitor,Electronics, $300.00 ,3, $900.00 , $15.81 ,In Transit,21-05-23,45-54
+Female,North,18,Keyboard,Accessories, $50.00 ,5, $250.00 , $16.00 ,Delivered,05-01-23,18-24
+Female,West,29,Mouse,Accessories, $30.00 ,4, $120.00 , $11.36 ,Returned,19-11-23,25-34
+,,,,,,,,,,,
+,,,,,,,,,,,
+Female,South,18,Mouse,Accessories, $30.00 ,3, $90.00 , $8.30 ,,06-02-23,18-24
+Female,East,44,Headphones,Accessories, $100.00 ,3, $300.00 , $13.94 ,In Transit,28-09-23,35-44
+Male,South,69,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $19.42 ,Delivered,07-11-23,55+
+Male,North,65,Keyboard,Accessories, $50.00 ,5, $250.00 , $5.92 ,Returned,04-04-23,55+
+Female,West,59,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $15.22 ,Delivered,24-11-23,55+
+Female,East,66,Headphones,Accessories, $100.00 ,2, $200.00 , $8.65 ,In Transit,19-09-23,55+
+Male,North,65,Monitor,Electronics, $300.00 ,3, $900.00 , $9.31 ,In Transit,14-02-23,55+
+Male,South,41,Keyboard,Accessories, $50.00 ,3, $150.00 , $5.55 ,Delivered,13-03-23,35-44
+Male,North,31,Mouse,Accessories, $30.00 ,1, $30.00 , $9.26 ,Returned,24-08-23,25-34
+Male,East,59,Monitor,Electronics, $300.00 ,3, $900.00 , $19.36 ,Delivered,01-05-23,55+
+,,,,,,,,,,,
+Female,West,27,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $13.94 ,In Transit,03-02-23,25-34
+Female,West,65,Smartphone,Electronics, $800.00 ,5," $4,000.00 ", $15.80 ,Returned,29-12-23,55+
+Male,West,67,Smartphone,Electronics, $800.00 ,3," $2,400.00 ", $7.05 ,In Transit,14-12-23,55+
+Male,West,54,Mouse,Accessories, $30.00 ,4, $120.00 , $14.50 ,Delivered,13-02-23,45-54
+Female,East,67,Mouse,Accessories, $30.00 ,2, $60.00 , $12.54 ,,26-03-23,55+
+Male,East,36,Smartphone,Electronics, $800.00 ,2," $1,600.00 ", $16.62 ,In Transit,03-08-23,35-44
+Male,South,44,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $18.67 ,Returned,12-09-23,35-44
+Female,West,40,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $13.51 ,Delivered,21-07-23,35-44
+Male,South,50,Mouse,Accessories, $30.00 ,3, $90.00 , $12.43 ,Delivered,05-01-23,45-54
+Male,South,30,Smartwatch,Wearables, $200.00 ,4, $800.00 , $13.90 ,Returned,28-06-23,25-34
+Male,South,56,Smartwatch,Wearables, $200.00 ,3, $600.00 , $19.03 ,In Transit,03-01-24,55+
+Female,North,66,Monitor,Electronics, $300.00 ,5," $1,500.00 ", $18.92 ,Delivered,03-05-23,55+
+Female,West,39,Monitor,Electronics, $300.00 ,1, $300.00 , $9.04 ,Delivered,23-07-23,35-44
+Female,East,47,Smartwatch,Wearables, $200.00 ,1, $200.00 , $12.27 ,In Transit,13-12-23,45-54
+Male,South,46,Keyboard,Accessories, $50.00 ,5, $250.00 , $19.63 ,In Transit,22-05-23,45-54
+Female,North,66,Keyboard,Accessories, $50.00 ,3, $150.00 , $10.21 ,Returned,12-12-23,55+
+Male,East,50,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $14.64 ,In Transit,28-01-23,45-54
+,,,,,,,,,,,
+Female,East,19,Monitor,Electronics, $300.00 ,3, $900.00 , $9.79 ,Delivered,02-12-23,18-24
+Male,West,39,Keyboard,Accessories, $50.00 ,1, $50.00 , $6.14 ,Delivered,29-05-23,35-44
+Male,East,21,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $10.03 ,In Transit,16-05-23,18-24
+Female,South,37,Headphones,Accessories, $100.00 ,3, $300.00 , $9.91 ,In Transit,01-08-23,35-44
+Male,South,64,Mouse,Accessories, $30.00 ,1, $30.00 , $19.22 ,In Transit,31-07-23,55+
+,,,,,,,,,,,
+Male,North,29,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $16.23 ,Delivered,26-01-23,25-34
+,,,,,,,,,,,
+Male,South,38,Monitor,Electronics, $300.00 ,5," $1,500.00 ", $19.39 ,Returned,26-02-23,35-44
+Male,West,39,Smartphone,Electronics, $800.00 ,3," $2,400.00 ", $9.92 ,In Transit,26-07-23,35-44
+Male,South,63,Smartwatch,Wearables, $200.00 ,4, $800.00 , $10.23 ,In Transit,07-06-23,55+
+Female,South,52,Smartphone,Electronics, $800.00 ,1, $800.00 , $10.65 ,Delivered,29-05-23,45-54
+Male,South,66,Monitor,Electronics, $300.00 ,5," $1,500.00 ", $8.06 ,Delivered,11-06-23,55+
+Male,North,63,Keyboard,Accessories, $50.00 ,5, $250.00 , $5.88 ,Delivered,12-02-23,55+
+Male,South,20,Monitor,Electronics, $300.00 ,1, $300.00 , $7.32 ,Returned,18-12-23,18-24
+Male,South,55,Smartphone,Electronics, $800.00 ,1, $800.00 , $18.74 ,Returned,17-07-23,55+
+Male,East,56,Laptop,Electronics," $1,500.00 ",2," $3,000.00 ", $19.05 ,Returned,20-05-23,55+
+Male,North,22,Keyboard,Accessories, $50.00 ,4, $200.00 , $11.99 ,Delivered,04-01-23,18-24
+Male,East,46,Monitor,Electronics, $300.00 ,1, $300.00 , $6.17 ,In Transit,10-12-23,45-54
+Female,East,67,Smartphone,Electronics, $800.00 ,3," $2,400.00 ", $7.30 ,In Transit,17-11-23,55+
+Female,North,67,Laptop,Electronics," $3,109.56 ",4," $6,000.00 ", $18.27 ,,26-08-23,55+
+,,,,,,,,,,,
+Male,South,57,Smartwatch,Wearables, $200.00 ,3, $600.00 , $5.88 ,Delivered,10-01-23,55+
+Male,North,38,Keyboard,Accessories, $50.00 ,5, $250.00 , $12.92 ,Returned,19-07-23,35-44
+Female,South,58,Mouse,Accessories, $30.00 ,2, $60.00 , $9.71 ,Returned,27-03-23,55+
+,,,,,,,,,,,
+Male,West,67,Mouse,Accessories, $30.00 ,3, $90.00 , $7.63 ,Delivered,22-07-23,55+
+Male,West,39,Mouse,Accessories, $30.00 ,5, $150.00 , $5.60 ,Returned,10-10-23,35-44
+Male,West,51,Keyboard,Accessories, $50.00 ,4, $200.00 , $19.42 ,In Transit,30-05-23,45-54
+Female,East,55,Smartwatch,Wearables, $200.00 ,5," $1,000.00 ", $13.29 ,Delivered,16-10-23,55+
+,,,,,,,,,,,
+Male,West,26,Mouse,Accessories, $30.00 ,2, $60.00 , $16.34 ,Returned,02-11-23,25-34
+Female,North,66,Headphones,Accessories, $100.00 ,4, $400.00 , $7.41 ,Delivered,09-01-23,55+
+Female,West,39,Monitor,Electronics, $300.00 ,1, $300.00 , $13.28 ,Delivered,20-02-23,35-44
+Male,East,47,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $8.88 ,In Transit,31-07-23,45-54
+Male,East,34,Smartwatch,Wearables, $200.00 ,3, $600.00 , $5.87 ,Returned,25-06-23,25-34
+,,,,,,,,,,,
+Male,West,43,Headphones,Accessories, $100.00 ,2, $200.00 , $15.85 ,Returned,08-10-23,35-44
+Female,North,64,Keyboard,Accessories, $50.00 ,5, $250.00 , $13.30 ,Returned,02-07-23,55+
+Female,East,40,Monitor,Electronics, $300.00 ,4," $1,200.00 ", $17.21 ,In Transit,30-07-23,35-44
+,,,,,,,,,,,
+Female,North,58,Smartwatch,Wearables, $200.00 ,4, $800.00 , $9.43 ,Returned,03-08-23,55+
+Male,North,52,Smartwatch,Wearables, $200.00 ,2, $400.00 , $5.97 ,In Transit,25-09-23,45-54
+,,,,,,,,,,,
+Male,South,18,Mouse,Accessories, $30.00 ,3, $90.00 , $11.70 ,,20-10-23,18-24
+Male,East,32,Headphones,Accessories, $100.00 ,5, $500.00 , $12.38 ,Returned,01-01-23,25-34
+Female,North,68,Smartphone,Electronics, $800.00 ,4," $3,200.00 ", $17.32 ,Returned,05-08-23,55+
+Male,West,26,Smartwatch,Wearables, $200.00 ,2, $400.00 , $7.14 ,Returned,04-01-23,25-34
+Female,South,49,Headphones,Accessories, $100.00 ,1, $100.00 , $17.21 ,In Transit,05-01-23,45-54
+Male,East,47,Laptop,Electronics," $1,500.00 ",1," $1,500.00 ", $19.19 ,Delivered,01-04-23,45-54
+,,,,,,,,,,,
+Female,South,29,Laptop,Electronics," $1,500.00 ",5," $7,500.00 ", $10.36 ,Returned,07-01-23,25-34
+,,,,,,,,,,,
